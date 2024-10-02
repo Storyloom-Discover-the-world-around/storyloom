@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# Run dart format on all files
+echo -e "\033[0;33mRunning dart format\033[0m"
+dart format .
+
+# Since we want this to always succeed, we don't check the exit code
+echo -e "\033[0;32mFinished running dart format\033[0m"
+
+# Stage the changes made by dart format
+git add .
+
+exit 0

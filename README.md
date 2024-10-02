@@ -53,6 +53,19 @@ To get started with this project, make sure you have the following installed:
    flutter run
    ```
 
+## Setup git hooks
+Run `git config core.hooksPath .githooks` to set up the git hooks
+
+## Hide generated files from the editor
+For VSCode, add the following to your `.vscode/settings.json`:
+```
+{
+    "files.exclude": {
+        "/*.freezed.dart": true,
+        "/*.g.dart": true,
+    },
+}
+```
 ## Contributing
 
 We welcome contributions from everyone! This repository is open for contributions as part of **Hacktoberfest**.
