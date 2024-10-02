@@ -30,6 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  video_player: ^2.5.1
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -57,6 +58,10 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+  assets:
+      - assets/images/WithNightFilterSlow.mp4
+
 
   # To add assets to your application, add an assets section, like this:
   # assets:
