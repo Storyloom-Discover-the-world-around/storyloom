@@ -21,6 +21,13 @@ This Flutter app will serve as the mobile extension of Storyloom, providing user
 - **Dart** - programming language used in Flutter development.
 - **Backend Integration** - connecting to the Storyloom API.
 
+## Figma Design
+
+You can view the Figma design for Storyloom using the following links:
+
+- [Figma Design](https://www.figma.com/design/LAk6PQEVTSIULm2uPrOREH/Storyloom?node-id=0-1&t=PgMINalju17K4Ztx-1)
+- [Figma Prototype](https://www.figma.com/proto/LAk6PQEVTSIULm2uPrOREH/Storyloom?node-id=0-1&t=PgMINalju17K4Ztx-1)
+
 ## Getting Started
 
 ### Prerequisites
