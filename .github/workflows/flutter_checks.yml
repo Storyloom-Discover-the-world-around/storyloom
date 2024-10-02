@@ -1,0 +1,39 @@
+on:
+  pull_request:
+    # On branches dev, staging and prod
+    branches: [dev,  prod]
+
+jobs:
+  flutter_checks:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - uses: actions/checkout@v3
+    - uses: subosito/flutter-action@v2
+      with:
+        flutter-version: '3.24.1'  # Specify your Flutter version here
+        channel: 'stable'
+
+    
+    - name: Install dependencies
+      run: flutter pub get
+
+    
+    - name: Copy environment file
+      run: cp .env.example .env
+
+    
+    - name: Run build_runner
+      run: flutter pub run build_runner build --delete-conflicting-outputs
+
+    
+    - name: Check formatting
+      run: dart format --set-exit-if-changed .
+
+    
+    - name: Run Dart analyzer
+      run: dart analyze --fatal-infos
+
+    
+    - name: Run Flutter analyzer
+      run: flutter analyze
