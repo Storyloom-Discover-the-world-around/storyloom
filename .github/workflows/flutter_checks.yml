@@ -19,10 +19,6 @@ jobs:
       run: flutter pub get
 
     
-    - name: Copy environment file
-      run: cp .env.example .env
-
-    
     - name: Run build_runner
       run: flutter pub run build_runner build --delete-conflicting-outputs
 
