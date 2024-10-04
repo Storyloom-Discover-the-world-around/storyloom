@@ -27,11 +27,12 @@ class _TopBarWidgetState extends State<TopBarWidget> {
                 image: AssetImage("assets/images/storyloom.png"),
               ),
               TextButton(
-                style: const ButtonStyle(
-                  shape: WidgetStatePropertyAll(
+                style: ButtonStyle(
+                  shape: MaterialStateProperty.all(
                     RoundedRectangleBorder(
-                        side: BorderSide(color: Colors.blue),
-                        borderRadius: BorderRadius.all(Radius.circular(22))),
+                      side: const BorderSide(color: Colors.blue),
+                      borderRadius: BorderRadius.circular(22),
+                    ),
                   ),
                 ),
                 onPressed: () {
@@ -65,7 +66,7 @@ class _TopBarWidgetState extends State<TopBarWidget> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: options.map((e) {
-                        String title = "Home";
+                        String title;
                         switch (e) {
                           case 1:
                             title = "Home";
@@ -85,7 +86,6 @@ class _TopBarWidgetState extends State<TopBarWidget> {
                           case 6:
                             title = "Contacts";
                             break;
-
                           default:
                             title = "Home";
                         }
@@ -98,9 +98,7 @@ class _TopBarWidgetState extends State<TopBarWidget> {
                           },
                           child: Padding(
                             padding: const EdgeInsets.symmetric(
-                              vertical: 20.0,
-                              horizontal: 20.0,
-                            ),
+                                vertical: 20.0, horizontal: 20.0),
                             child: Text(
                               title,
                               style: TextStyle(
