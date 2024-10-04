@@ -6,7 +6,6 @@ class HeroComponent extends StatefulWidget {
   const HeroComponent({super.key});
 
   @override
-  // ignore: library_private_types_in_public_api
   _HeroComponentState createState() => _HeroComponentState();
 }
 
@@ -19,16 +18,20 @@ class _HeroComponentState extends State<HeroComponent> {
     _controller =
         VideoPlayerController.asset('assets/images/WithNightFilterSlow.mp4')
           ..initialize().then((_) {
-            setState(() {});
+            setState(() {
+              print("Video initialized successfully"); // Debugging
+            });
             _controller.setLooping(true);
             _controller.play();
+          }).catchError((error) {
+            print("Error initializing video: $error"); // Error handling
           });
   }
 
   @override
   void dispose() {
-    super.dispose();
     _controller.dispose();
+    super.dispose();
   }
 
   @override
@@ -47,8 +50,6 @@ class _HeroComponentState extends State<HeroComponent> {
                 ),
               )
             : const Center(child: CircularProgressIndicator()),
-
-        // Overlay the text on the video
         Center(
           child: Text(
             'Storyloom - Discover the World Around',
@@ -60,7 +61,6 @@ class _HeroComponentState extends State<HeroComponent> {
             textAlign: TextAlign.center,
           ),
         ),
-        //Topbar
         const TopBarWidget(),
       ],
     );
