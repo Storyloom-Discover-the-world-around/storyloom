@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:storyloom/widgets/topbar_widget.dart';
 import 'package:video_player/video_player.dart';
 
 class HeroComponent extends StatefulWidget {
@@ -59,6 +60,8 @@ class _HeroComponentState extends State<HeroComponent> {
             textAlign: TextAlign.center,
           ),
         ),
+        //Topbar
+        const TopBarWidget(),
       ],
     );
   }
