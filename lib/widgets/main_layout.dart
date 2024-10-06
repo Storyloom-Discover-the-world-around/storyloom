@@ -35,7 +35,7 @@ class _MainLayoutState extends State<MainLayout> {
       body: Stack(
         children: [
           Padding(
-            padding: const EdgeInsets.only(top: 80),
+            padding: const EdgeInsets.only(top: 0),
             child: AnimatedSwitcher(
               duration: const Duration(milliseconds: 500),
               transitionBuilder: (Widget child, Animation<double> animation) {
