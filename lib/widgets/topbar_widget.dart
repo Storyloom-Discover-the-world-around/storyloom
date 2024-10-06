@@ -14,13 +14,22 @@ class TopBarWidget extends StatefulWidget {
 class _TopBarWidgetState extends State<TopBarWidget> {
   bool isMenuSelected = false;
   int selectedOption = 0;
+  Color backgroundColor = Colors.transparent; // Initially black
+
+  void _toggleMenu() {
+    setState(() {
+      isMenuSelected = !isMenuSelected;
+      backgroundColor = isMenuSelected ? Colors.black : Colors.transparent;
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
     return Column(
       children: [
+        // Top Bar
         Container(
-          color: Colors.black,
+          color: backgroundColor, // Dynamically change color
           padding: const EdgeInsets.only(
               left: 20.0, right: 20.0, top: 40.0, bottom: 20.0),
           child: Row(
@@ -29,20 +38,17 @@ class _TopBarWidgetState extends State<TopBarWidget> {
               const Image(
                 image: AssetImage("assets/images/storyloom.png"),
               ),
+              // Menu button
               TextButton(
                 style: ButtonStyle(
-                  shape: WidgetStateProperty.all(
+                  shape: MaterialStateProperty.all(
                     RoundedRectangleBorder(
                       side: const BorderSide(color: Colors.blue),
                       borderRadius: BorderRadius.circular(22),
                     ),
                   ),
                 ),
-                onPressed: () {
-                  setState(() {
-                    isMenuSelected = !isMenuSelected;
-                  });
-                },
+                onPressed: _toggleMenu,
                 child: Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 15.0),
                   child: Text(
@@ -54,7 +60,6 @@ class _TopBarWidgetState extends State<TopBarWidget> {
             ],
           ),
         ),
-        // AnimatedOpacity for fade-in effect
         Expanded(
           child: AnimatedOpacity(
             opacity: isMenuSelected ? 1.0 : 0.0,
@@ -63,9 +68,8 @@ class _TopBarWidgetState extends State<TopBarWidget> {
                 ? Container(
                     padding: const EdgeInsets.symmetric(
                         vertical: 50, horizontal: 30),
-                    color: Colors.black,
+                    color: Colors.black, // Keep the menu background black
                     width: MediaQuery.of(context).size.width,
-                    height: MediaQuery.of(context).size.height,
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
@@ -90,6 +94,7 @@ class _TopBarWidgetState extends State<TopBarWidget> {
         setState(() {
           selectedOption = index;
           isMenuSelected = false;
+          backgroundColor = Colors.transparent;
         });
         widget.onMenuItemSelected(index);
       },

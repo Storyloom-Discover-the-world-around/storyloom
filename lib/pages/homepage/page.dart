@@ -48,14 +48,46 @@ class HomePageState extends State<HomePage> {
               )
             : const Center(child: CircularProgressIndicator()),
         Center(
-          child: Text(
-            'Storyloom - Discover the World Around',
-            style: TextStyle(
-              fontSize: 32,
-              fontWeight: FontWeight.bold,
-              color: Colors.white.withOpacity(0.8),
+          child: Padding(
+            padding: const EdgeInsets.all(20.0),
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Text(
+                  'Discover, Read,\nand Learn Across Cultures.',
+                  style: TextStyle(
+                    fontSize: 36,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white.withOpacity(0.9),
+                    shadows: [
+                      Shadow(
+                        blurRadius: 10.0,
+                        color: Colors.black.withOpacity(0.9),
+                        offset: Offset(0, 3),
+                      ),
+                    ],
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 20),
+                Text(
+                  'Explore captivating stories and dive into magical worlds.',
+                  style: TextStyle(
+                    fontSize: 16,
+                    color: Colors.white.withOpacity(0.8),
+                    shadows: [
+                      Shadow(
+                        blurRadius: 8.0,
+                        color: Colors.black.withOpacity(0.7),
+                        offset: Offset(0, 2),
+                      ),
+                    ],
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 40),
+              ],
             ),
-            textAlign: TextAlign.center,
           ),
         ),
       ],
