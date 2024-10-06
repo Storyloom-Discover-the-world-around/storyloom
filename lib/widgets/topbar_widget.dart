@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
 
 class TopBarWidget extends StatefulWidget {
-  const TopBarWidget({super.key});
+  final Function(int) onMenuItemSelected;
+  const TopBarWidget({
+    super.key,
+    required this.onMenuItemSelected,
+  });
 
   @override
   State<TopBarWidget> createState() => _TopBarWidgetState();
@@ -9,8 +13,7 @@ class TopBarWidget extends StatefulWidget {
 
 class _TopBarWidgetState extends State<TopBarWidget> {
   bool isMenuSelected = false;
-  int selectedOption = 1;
-  List<int> options = [1, 2, 3, 4, 5, 6];
+  int selectedOption = 0;
 
   @override
   Widget build(BuildContext context) {
@@ -28,7 +31,7 @@ class _TopBarWidgetState extends State<TopBarWidget> {
               ),
               TextButton(
                 style: ButtonStyle(
-                  shape: MaterialStateProperty.all(
+                  shape: WidgetStateProperty.all(
                     RoundedRectangleBorder(
                       side: const BorderSide(color: Colors.blue),
                       borderRadius: BorderRadius.circular(22),
@@ -65,56 +68,41 @@ class _TopBarWidgetState extends State<TopBarWidget> {
                     height: MediaQuery.of(context).size.height,
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
-                      children: options.map((e) {
-                        String title;
-                        switch (e) {
-                          case 1:
-                            title = "Home";
-                            break;
-                          case 2:
-                            title = "Stories";
-                            break;
-                          case 3:
-                            title = "Genres";
-                            break;
-                          case 4:
-                            title = "Folktales";
-                            break;
-                          case 5:
-                            title = "Your Story";
-                            break;
-                          case 6:
-                            title = "Contacts";
-                            break;
-                          default:
-                            title = "Home";
-                        }
-                        bool isSelected = selectedOption == e;
-                        return GestureDetector(
-                          onTap: () {
-                            setState(() {
-                              selectedOption = e;
-                            });
-                          },
-                          child: Padding(
-                            padding: const EdgeInsets.symmetric(
-                                vertical: 20.0, horizontal: 20.0),
-                            child: Text(
-                              title,
-                              style: TextStyle(
-                                color: isSelected ? Colors.white : Colors.grey,
-                                fontSize: 38,
-                              ),
-                            ),
-                          ),
-                        );
-                      }).toList(),
+                      children: [
+                        _buildMenuItem("Home", 0),
+                        _buildMenuItem("Stories", 1),
+                        _buildMenuItem("Genres", 2),
+                        _buildMenuItem("Folktales", 3),
+                      ],
                     ),
                   )
                 : Container(),
           ),
         ),
       ],
+    );
+  }
+
+  Widget _buildMenuItem(String title, int index) {
+    bool isSelected = selectedOption == index;
+    return GestureDetector(
+      onTap: () {
+        setState(() {
+          selectedOption = index;
+          isMenuSelected = false;
+        });
+        widget.onMenuItemSelected(index);
+      },
+      child: Padding(
+        padding: const EdgeInsets.symmetric(vertical: 20.0, horizontal: 20.0),
+        child: Text(
+          title,
+          style: TextStyle(
+            color: isSelected ? Colors.white : Colors.grey,
+            fontSize: 38,
+          ),
+        ),
+      ),
     );
   }
 }
