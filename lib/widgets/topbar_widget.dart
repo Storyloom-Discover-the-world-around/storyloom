@@ -41,7 +41,7 @@ class _TopBarWidgetState extends State<TopBarWidget> {
               // Menu button
               TextButton(
                 style: ButtonStyle(
-                  shape: MaterialStateProperty.all(
+                  shape: WidgetStatePropertyAll(
                     RoundedRectangleBorder(
                       side: const BorderSide(color: Colors.blue),
                       borderRadius: BorderRadius.circular(22),
