@@ -31,7 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
   video_player: ^2.5.1
-  build_runner: ^2.0.0  
+  build_runner: ^2.0.0  # or the latest version
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -61,12 +61,15 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/
-    - assets/images/Logos/
+    - assets/images/WithNightFilterSlow.mp4
+    - assets/images/storyloom.png
+    - assets/images/highlight.png
+    
 
   # To add assets to your application, add an assets section, like this:
   # assets:
-  #   - assets/images/
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
