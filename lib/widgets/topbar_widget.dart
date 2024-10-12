@@ -14,7 +14,7 @@ class TopBarWidget extends StatefulWidget {
 class _TopBarWidgetState extends State<TopBarWidget> {
   bool isMenuSelected = false;
   int selectedOption = 0;
-  Color backgroundColor = Colors.transparent; // Initially black
+  Color backgroundColor = Colors.transparent;
 
   void _toggleMenu() {
     setState(() {
@@ -41,7 +41,7 @@ class _TopBarWidgetState extends State<TopBarWidget> {
               // Menu button
               TextButton(
                 style: ButtonStyle(
-                  shape: WidgetStatePropertyAll(
+                  shape: MaterialStateProperty.all(
                     RoundedRectangleBorder(
                       side: const BorderSide(color: Colors.blue),
                       borderRadius: BorderRadius.circular(22),
@@ -60,6 +60,7 @@ class _TopBarWidgetState extends State<TopBarWidget> {
             ],
           ),
         ),
+        // Menu container
         Expanded(
           child: AnimatedOpacity(
             opacity: isMenuSelected ? 1.0 : 0.0,
@@ -68,7 +69,7 @@ class _TopBarWidgetState extends State<TopBarWidget> {
                 ? Container(
                     padding: const EdgeInsets.symmetric(
                         vertical: 50, horizontal: 30),
-                    color: Colors.black, // Keep the menu background black
+                    color: Colors.black,
                     width: MediaQuery.of(context).size.width,
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,

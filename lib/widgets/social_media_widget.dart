@@ -8,10 +8,10 @@ class SocialMediaWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Column(
+    return const Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        const Text(
+        Text(
           "Follow Us",
           style: TextStyle(
             color: Colors.white,
@@ -19,21 +19,6 @@ class SocialMediaWidget extends StatelessWidget {
             fontWeight: FontWeight.w600,
           ),
         ),
-        const SizedBox(height: 20),
-        Row(
-          children: [
-            ...socials.map((el) => Container(
-                  margin: const EdgeInsets.only(right: 16),
-                  child: SvgPicture.asset(
-                    'assets/images/Logos/$el.svg',
-                    width: 32,
-                    height: 32,
-                    // Says this is deprecated, but this is all that works atm...
-                    color: el == 'x' ? Colors.white : Colors.orangeAccent,
-                  ),
-                ))
-          ],
-        )
       ],
     );
   }
