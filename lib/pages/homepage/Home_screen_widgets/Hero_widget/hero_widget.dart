@@ -5,10 +5,10 @@ class HeroSection extends StatefulWidget {
   const HeroSection({super.key});
 
   @override
-  _HeroSectionState createState() => _HeroSectionState();
+  HeroSectionState createState() => HeroSectionState();
 }
 
-class _HeroSectionState extends State<HeroSection> {
+class HeroSectionState extends State<HeroSection> {
   late VideoPlayerController _controller;
   bool _hasInteracted = true;
 
