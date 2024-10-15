@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:storyloom/widgets/links_widget.dart';
-import 'package:storyloom/widgets/social_media_widget.dart';
 
 class HighlightWidget extends StatelessWidget {
   const HighlightWidget({super.key});

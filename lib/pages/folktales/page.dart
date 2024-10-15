@@ -5,10 +5,16 @@ class FolktalesPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Center(
-      child: Text(
-        'Folktales Page Content',
-        style: TextStyle(fontSize: 24),
+    final String country =
+        ModalRoute.of(context)?.settings.arguments as String? ?? 'All';
+
+    return Scaffold(
+      body: Center(
+        child: Text(
+          'Folktales for: $country',
+          style: const TextStyle(fontSize: 24),
+          textAlign: TextAlign.center,
+        ),
       ),
     );
   }
