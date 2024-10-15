@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:storyloom/pages/homepage/Home_screen_widgets/Forktail_widget/Forktail_card_widget/forktail_card_widget.dart';
 import 'package:storyloom/widgets/footer_widget.dart';
 
 import 'Home_screen_widgets/Categories_widget/categories_widget.dart';

@@ -18,7 +18,7 @@ class ForktailCardWidget extends StatelessWidget {
       onTap: () {
         Navigator.pushNamed(context, '/forktale', arguments: country);
       },
-      child: Container(
+      child: SizedBox(
         height: 250, // Height greater than width
         width: 150, // Width of the card
         child: Card(

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class CategiriesCardWidget extends StatelessWidget {
+class CategoriesCardWidget extends StatelessWidget {
   final String image;
   final String title;
   final String category;
 
-  const CategiriesCardWidget({
+  const CategoriesCardWidget({
     required this.image,
     required this.title,
     required this.category,
@@ -18,7 +18,7 @@ class CategiriesCardWidget extends StatelessWidget {
       onTap: () {
         Navigator.pushNamed(context, '/stories', arguments: category);
       },
-      child: Container(
+      child: SizedBox(
         height: 250, // Height greater than width
         width: 150, // Width of the card
         child: Card(

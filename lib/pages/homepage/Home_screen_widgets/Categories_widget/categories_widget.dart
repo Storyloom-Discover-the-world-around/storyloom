@@ -26,19 +26,19 @@ class CategoriesWidget extends StatelessWidget {
 
             const SizedBox(height: 30), // Adjust spacing before the cards
             // Use a fixed height for the GridView
-            Container(
+            SizedBox(
               height: 400, // Set a height for the grid
               child: GridView.count(
                 crossAxisCount: 2,
                 crossAxisSpacing: 16,
                 mainAxisSpacing: 16,
                 children: const [
-                  CategiriesCardWidget(
+                  CategoriesCardWidget(
                       image:
                           'https://i.pinimg.com/236x/54/93/22/549322041d3eb23527fbf1d5e1d4bafa.jpg',
                       title: 'Adventure',
                       category: "Adventure"),
-                  CategiriesCardWidget(
+                  CategoriesCardWidget(
                       image:
                           'https://i.pinimg.com/236x/54/93/22/549322041d3eb23527fbf1d5e1d4bafa.jpg',
                       title: 'Adventure',

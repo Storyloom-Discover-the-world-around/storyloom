@@ -34,7 +34,7 @@ class ForktailWidget extends StatelessWidget {
             ),
             const SizedBox(height: 30), // Adjust spacing before the cards
             // Use a fixed height for the GridView
-            Container(
+            SizedBox(
               height: 400, // Set a height for the grid
               child: GridView.count(
                 crossAxisCount: 2,
