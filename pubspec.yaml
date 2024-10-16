@@ -29,8 +29,7 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   flutter:
-    sdk: flutter
-  http: ^1.2.2 
+    sdk: flutter 
   video_player: ^2.5.1
   build_runner: ^2.0.0
   font_awesome_flutter: ^10.3.0  
