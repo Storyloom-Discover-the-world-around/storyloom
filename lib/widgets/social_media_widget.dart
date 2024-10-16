@@ -26,20 +26,21 @@ class SocialMediaWidget extends StatelessWidget {
   Icon _getSocialIcon(String social) {
     switch (social) {
       case 'instagram':
-        return Icon(FontAwesomeIcons.instagram, color: Colors.white);
+        return const Icon(FontAwesomeIcons.instagram, color: Colors.white);
       case 'twitter':
-        return Icon(FontAwesomeIcons.twitter, color: Colors.white);
+        return const Icon(FontAwesomeIcons.twitter, color: Colors.white);
       case 'github':
-        return Icon(FontAwesomeIcons.github, color: Colors.white);
+        return const Icon(FontAwesomeIcons.github, color: Colors.white);
       default:
-        return Icon(FontAwesomeIcons.globe,
+        return const Icon(FontAwesomeIcons.globe,
             color: Colors.white); // Fallback icon
     }
   }
 
   Future<void> _launchURL(String url) async {
-    if (await canLaunch(url)) {
-      await launch(url);
+    Uri uri = Uri.parse(url);
+    if (await canLaunchUrl(uri)) {
+      await launchUrl(uri);
     } else {
       throw 'Could not launch $url';
     }

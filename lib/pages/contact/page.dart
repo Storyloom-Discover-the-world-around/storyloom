@@ -26,7 +26,7 @@ class ContactPage extends StatelessWidget {
                 ),
                 textAlign: TextAlign.center,
               ),
-              SizedBox(height: 20), // Spacing after title
+              const SizedBox(height: 20), // Spacing after title
               const Text(
                 'We would love to hear from you! Whether you have a question about the stories, need assistance, or just want to share your thoughts, feel free to reach out.',
                 style: TextStyle(
@@ -35,13 +35,13 @@ class ContactPage extends StatelessWidget {
                 ),
                 textAlign: TextAlign.center,
               ),
-              SizedBox(height: 30), // Spacing before form fields
+              const SizedBox(height: 30), // Spacing before form fields
               TextField(
                 decoration: InputDecoration(
                   labelText: 'Name',
-                  labelStyle: TextStyle(color: Colors.white70),
+                  labelStyle: const TextStyle(color: Colors.white70),
                   hintText: 'Your Name',
-                  hintStyle: TextStyle(color: Colors.white38),
+                  hintStyle: const TextStyle(color: Colors.white38),
                   filled: true,
                   fillColor: Colors.white12,
                   border: OutlineInputBorder(
@@ -49,15 +49,15 @@ class ContactPage extends StatelessWidget {
                     borderSide: BorderSide.none,
                   ),
                 ),
-                style: TextStyle(color: Colors.white),
+                style: const TextStyle(color: Colors.white),
               ),
-              SizedBox(height: 20), // Spacing between fields
+              const SizedBox(height: 20), // Spacing between fields
               TextField(
                 decoration: InputDecoration(
                   labelText: 'Email',
-                  labelStyle: TextStyle(color: Colors.white70),
+                  labelStyle: const TextStyle(color: Colors.white70),
                   hintText: 'Your Email',
-                  hintStyle: TextStyle(color: Colors.white38),
+                  hintStyle: const TextStyle(color: Colors.white38),
                   filled: true,
                   fillColor: Colors.white12,
                   border: OutlineInputBorder(
@@ -65,16 +65,16 @@ class ContactPage extends StatelessWidget {
                     borderSide: BorderSide.none,
                   ),
                 ),
-                style: TextStyle(color: Colors.white),
+                style: const TextStyle(color: Colors.white),
               ),
-              SizedBox(height: 20), // Spacing between fields
+              const SizedBox(height: 20), // Spacing between fields
               TextField(
                 maxLines: 5,
                 decoration: InputDecoration(
                   labelText: 'Message',
-                  labelStyle: TextStyle(color: Colors.white70),
+                  labelStyle: const TextStyle(color: Colors.white70),
                   hintText: 'Your Message',
-                  hintStyle: TextStyle(color: Colors.white38),
+                  hintStyle: const TextStyle(color: Colors.white38),
                   filled: true,
                   fillColor: Colors.white12,
                   border: OutlineInputBorder(
@@ -82,9 +82,9 @@ class ContactPage extends StatelessWidget {
                     borderSide: BorderSide.none,
                   ),
                 ),
-                style: TextStyle(color: Colors.white),
+                style: const TextStyle(color: Colors.white),
               ),
-              SizedBox(height: 30), // Spacing before submit button
+              const SizedBox(height: 30), // Spacing before submit button
               SizedBox(
                 width: screenWidth * 0.8, // Button width based on screen size
                 child: ElevatedButton(

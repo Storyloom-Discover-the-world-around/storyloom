@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:storyloom/pages/contact/page..dart';
+import 'package:storyloom/pages/contact/page.dart';
 import 'package:storyloom/pages/contribute/page.dart';
 import 'package:storyloom/pages/folktales/page.dart';
 import 'package:storyloom/pages/genres/page.dart';
