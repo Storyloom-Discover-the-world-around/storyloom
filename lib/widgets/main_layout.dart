@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:storyloom/pages/contact/page..dart';
+import 'package:storyloom/pages/contribute/page.dart';
 import 'package:storyloom/pages/folktales/page.dart';
 import 'package:storyloom/pages/genres/page.dart';
 import 'package:storyloom/pages/homepage/page.dart';
@@ -21,6 +23,8 @@ class _MainLayoutState extends State<MainLayout> {
     const StoriesPage(),
     const GenresPage(),
     const FolktalesPage(),
+    const ContributePage(),
+    const ContactPage()
   ];
 
   void _onMenuItemSelected(int index) {

@@ -78,6 +78,8 @@ class _TopBarWidgetState extends State<TopBarWidget> {
                         _buildMenuItem("Stories", 1),
                         _buildMenuItem("Genres", 2),
                         _buildMenuItem("Folktales", 3),
+                        _buildMenuItem("Contribute", 4),
+                        _buildMenuItem("Contact", 5),
                       ],
                     ),
                   )

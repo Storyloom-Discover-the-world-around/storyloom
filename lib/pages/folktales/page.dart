@@ -6,26 +6,25 @@ class FolktalesPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final screenHeight = MediaQuery.of(context).size.height;
+
     final String country =
         ModalRoute.of(context)?.settings.arguments as String? ?? 'All';
 
     return Scaffold(
-      appBar: AppBar(
-        title: Text('Folktales for: $country'),
-        centerTitle: true,
-        backgroundColor: Colors.deepPurple,
-      ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
+            SizedBox(height: screenHeight * 0.125),
+
             Text(
               'Folktales for: $country',
               style: const TextStyle(
                 fontSize: 28,
                 fontWeight: FontWeight.bold,
-                color: Colors.deepPurple,
+                color: Colors.white,
               ),
               textAlign: TextAlign.center,
             ),
