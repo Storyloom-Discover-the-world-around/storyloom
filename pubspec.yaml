@@ -65,6 +65,7 @@ flutter:
 
   assets:
     - assets/images/WithNightFilterSlow.mp4
+    - assets/images/thriller.jpg
     - assets/images/storyloom.png
     - assets/images/highlight.png
     - lib/lang/en.json
