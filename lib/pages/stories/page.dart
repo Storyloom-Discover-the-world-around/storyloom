@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:storyloom/localization/demo_localization.dart';
+import 'package:storyloom/main.dart';
 import 'package:storyloom/widgets/footer_widget.dart';
+import 'package:storyloom/classes/language.dart';
 
 class StoriesPage extends StatefulWidget {
   const StoriesPage({super.key});
@@ -9,16 +12,27 @@ class StoriesPage extends StatefulWidget {
 }
 
 class _StoriesPageState extends State<StoriesPage> {
-  int selectedLanguage = 0;
-
-  void changeLanguage(int value) {
-    setState(() {
-      selectedLanguage = value;
-    });
+  void _changeLanguage(Language language) {
+    Locale _temp;
+    switch (language.languageCode) {
+      case 'en':
+        _temp = Locale(language.languageCode, 'US');
+        break;
+      case 'ru':
+        _temp = Locale(language.languageCode, 'RU');
+        break;
+      case 'de':
+        _temp = Locale(language.languageCode, 'DE');
+        break;
+      default:
+        _temp = Locale(language.languageCode, 'US');
+    }
+    StoryLoomApp.setLocale(context, _temp);
   }
 
   @override
   Widget build(BuildContext context) {
+    var selectedLanguage = 0;
     return Center(
         child: Padding(
       padding: const EdgeInsets.symmetric(horizontal: 25.0),
@@ -33,8 +47,8 @@ class _StoriesPageState extends State<StoriesPage> {
             height: 192,
           ),
           const SizedBox(height: 40),
-          const Text(
-            "The Shadows of Moscow",
+          Text(
+            DemoLocalization.of(context).getTranslatedValue('moscowt'),
             style: TextStyle(
               color: Colors.white,
               fontSize: 24,
@@ -57,9 +71,7 @@ class _StoriesPageState extends State<StoriesPage> {
               Row(
                 children: [
                   GestureDetector(
-                    onTap: () {
-                      changeLanguage(0);
-                    },
+                    onTap: () => _changeLanguage(Language(0, "en")),
                     child: Container(
                       padding: const EdgeInsets.symmetric(
                         horizontal: 6,
@@ -83,9 +95,7 @@ class _StoriesPageState extends State<StoriesPage> {
                     ),
                   ),
                   GestureDetector(
-                    onTap: () {
-                      changeLanguage(1);
-                    },
+                    onTap: () => _changeLanguage(Language(1, "ru")),
                     child: Container(
                         margin: const EdgeInsets.symmetric(horizontal: 4),
                         padding: const EdgeInsets.symmetric(
@@ -109,9 +119,7 @@ class _StoriesPageState extends State<StoriesPage> {
                         )),
                   ),
                   GestureDetector(
-                    onTap: () {
-                      changeLanguage(2);
-                    },
+                    onTap: () => _changeLanguage(Language(2, "de")),
                     child: Container(
                         padding: const EdgeInsets.symmetric(
                           horizontal: 6,
@@ -143,8 +151,7 @@ class _StoriesPageState extends State<StoriesPage> {
             ],
           ),
           const SizedBox(height: 10),
-          const Text(
-              "In the heart of Moscow, Andrei moved swiftly through the bustling streets, clutching a worn leather briefcase. The city’s freezing winds bit at his face, but the real danger lurked in the shadows. Inside that briefcase were secrets—secrets that could bring down men in power, expose corrupt empires, and shift the balance of an entire nation. Andrei wasn’t just running from the cold tonight; he was being hunted. He could feel the weight of unseen eyes tracking him as he crossed Red Square, blending into the late-night crowd. Trust was a rare commodity in his line of work, and tonight, he had none. His only ally, Ivan, had arranged a meeting at an abandoned warehouse by the Moskva River. But Andrei knew it could be a trap. His instincts had saved him before, and tonight, they were sharper than ever. The warehouse loomed ahead, its windows shattered and the door creaking in the wind. Andrei’s heart pounded as he stepped inside, the faint glow of streetlights barely illuminating the cold, concrete interior. Every step echoed ominously. He wasn’t alone. A sudden click behind him made Andrei freeze. From the shadows, a tall figure emerged, gun in hand. The man’s voice was cold and steady, 'You’ve been a thorn in our side for far too long, Andrei. Did you really think you could run forever?' Andrei’s mind raced. He recognized the voice—Sergei, a ruthless enforcer sent by the very people Andrei sought to expose. But he wasn’t ready to give up just yet. Slowly, Andrei reached into his coat pocket, his fingers brushing the cold steel of his own gun. It was a deadly dance they had played before, but this time, Andrei knew it would end in blood. The question was whose.",
+          Text(DemoLocalization.of(context).getTranslatedValue('moscows'),
               style: TextStyle(
                   color: Colors.white,
                   fontSize: 14.6,
