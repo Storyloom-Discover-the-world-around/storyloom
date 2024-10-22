@@ -34,14 +34,14 @@ class _StoryLoomAppState extends State<StoryLoomApp> {
     return MaterialApp(
       title: 'Storyloom',
       debugShowCheckedModeBanner: false,
-      localizationsDelegates: [
+      localizationsDelegates: const [
         DemoLocalization.delegate,
         GlobalMaterialLocalizations.delegate,
         GlobalWidgetsLocalizations.delegate,
         GlobalCupertinoLocalizations.delegate,
       ],
       locale: _locale,
-      supportedLocales: [
+      supportedLocales: const [
         Locale('en', 'US'),
         Locale('ru', 'RU'),
         Locale('de', 'DE'),

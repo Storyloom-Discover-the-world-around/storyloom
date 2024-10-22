@@ -41,7 +41,7 @@ class _TopBarWidgetState extends State<TopBarWidget> {
               // Menu button
               TextButton(
                 style: ButtonStyle(
-                  shape: MaterialStateProperty.all(
+                  shape: WidgetStateProperty.all(
                     RoundedRectangleBorder(
                       side: const BorderSide(color: Colors.blue),
                       borderRadius: BorderRadius.circular(22),
@@ -68,7 +68,7 @@ class _TopBarWidgetState extends State<TopBarWidget> {
             child: isMenuSelected
                 ? Container(
                     padding: const EdgeInsets.symmetric(
-                        vertical: 50, horizontal: 30),
+                        vertical: 40, horizontal: 30),
                     color: Colors.black,
                     width: MediaQuery.of(context).size.width,
                     child: Column(
