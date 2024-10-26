@@ -15,24 +15,24 @@ class _StoriesPageState extends State<StoriesPage> {
   int selectedLanguage = 1;
 
   void _changeLanguage(Language language) {
-    Locale _temp;
+    Locale temp;
     switch (language.languageCode) {
       case 'en':
-        _temp = Locale(language.languageCode, 'US');
+        temp = Locale(language.languageCode, 'US');
         break;
       case 'ru':
-        _temp = Locale(language.languageCode, 'RU');
+        temp = Locale(language.languageCode, 'RU');
         break;
       case 'de':
-        _temp = Locale(language.languageCode, 'DE');
+        temp = Locale(language.languageCode, 'DE');
         break;
       default:
-        _temp = Locale(language.languageCode, 'US');
+        temp = Locale(language.languageCode, 'US');
     }
     setState(() {
       selectedLanguage = language.id;
     });
-    StoryLoomApp.setLocale(context, _temp);
+    StoryLoomApp.setLocale(context, temp);
   }
 
   @override

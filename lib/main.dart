@@ -21,7 +21,7 @@ class StoryLoomApp extends StatefulWidget {
 }
 
 class _StoryLoomAppState extends State<StoryLoomApp> {
-  Locale _locale = Locale('en', 'US');
+  Locale _locale = const Locale('en', 'US');
 
   void setLocale(Locale locale) {
     setState(() {
