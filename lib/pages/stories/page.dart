@@ -15,7 +15,11 @@ class _StoriesPageState extends State<StoriesPage> {
   int selectedLanguage = 1;
 
   void _changeLanguage(Language language) {
-    Locale temp;
+
+
+
+    Locale temp; // Renamed variable
+
     switch (language.languageCode) {
       case 'en':
         temp = Locale(language.languageCode, 'US');

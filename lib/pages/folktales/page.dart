@@ -1,15 +1,21 @@
 import 'package:flutter/material.dart';
+import 'package:storyloom/pages/folktales/forktales_dropdown_widget/forktales_dropdown_widget.dart';
 import 'package:storyloom/pages/folktales/forktales_screen_widgets/forktale_story_card/forktale_story_card_widget.dart';
 
-class FolktalesPage extends StatelessWidget {
+class FolktalesPage extends StatefulWidget {
   const FolktalesPage({super.key});
+
+  @override
+  FolktalesPageState createState() => FolktalesPageState(); // Made public
+}
+
+class FolktalesPageState extends State<FolktalesPage> {
+  // Made public
+  String selectedCountry = 'All';
 
   @override
   Widget build(BuildContext context) {
     final screenHeight = MediaQuery.of(context).size.height;
-
-    final String country =
-        ModalRoute.of(context)?.settings.arguments as String? ?? 'All';
 
     return Scaffold(
       body: SingleChildScrollView(
@@ -18,9 +24,8 @@ class FolktalesPage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             SizedBox(height: screenHeight * 0.125),
-
             Text(
-              'Folktales for: $country',
+              '$selectedCountry Folktales',
               style: const TextStyle(
                 fontSize: 28,
                 fontWeight: FontWeight.bold,
@@ -28,7 +33,16 @@ class FolktalesPage extends StatelessWidget {
               ),
               textAlign: TextAlign.center,
             ),
-            const SizedBox(height: 20), // Add spacing
+            const SizedBox(height: 20),
+            ForktalesDropdown(
+              selectedCountry: selectedCountry,
+              onChanged: (newCountry) {
+                setState(() {
+                  selectedCountry = newCountry;
+                });
+              },
+            ),
+            const SizedBox(height: 20),
             const ForktailStoryCardWidget(
               image:
                   "https://i.pinimg.com/564x/ca/a6/b7/caa6b7765a6c9f19b355f44bb0d561b2.jpg",
@@ -36,7 +50,7 @@ class FolktalesPage extends StatelessWidget {
               country: "Russia",
               description: "Once upon a time, in a faraway kingdom, there...",
             ),
-            const SizedBox(height: 16), // Add spacing between cards
+            const SizedBox(height: 16),
             const ForktailStoryCardWidget(
               image:
                   "https://i.pinimg.com/564x/ca/a6/b7/caa6b7765a6c9f19b355f44bb0d561b2.jpg",
@@ -44,7 +58,7 @@ class FolktalesPage extends StatelessWidget {
               country: "Russia",
               description: "Once upon a time, in a faraway kingdom, there...",
             ),
-            const SizedBox(height: 32), // Extra space at the bottom
+            const SizedBox(height: 32),
           ],
         ),
       ),

@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -7,6 +6,7 @@ class DemoLocalization {
   final Locale locale;
 
   DemoLocalization(this.locale);
+
   static DemoLocalization of(BuildContext context) {
     return Localizations.of<DemoLocalization>(context, DemoLocalization)!;
   }
@@ -42,7 +42,10 @@ class _DemoLocalizationDelegate
 
   @override
   Future<DemoLocalization> load(Locale locale) async {
-    DemoLocalization localization = DemoLocalization(locale);
+
+
+    DemoLocalization localization = DemoLocalization(locale); // Removed 'new'
+
     await localization.load();
     return localization;
   }

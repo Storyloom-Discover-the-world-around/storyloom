@@ -66,10 +66,27 @@ class HeroSectionState extends State<HeroSection> {
                 )
               : const Center(child: CircularProgressIndicator()),
 
+          // Gradient overlay
+          Positioned.fill(
+            child: Container(
+              decoration: BoxDecoration(
+                gradient: LinearGradient(
+                  begin: Alignment.topCenter,
+                  end: Alignment.bottomCenter,
+                  colors: [
+                    Colors.transparent,
+                    Colors.black.withOpacity(0.9),
+                  ],
+                  stops: const [0.7, 1.0], // Adjust the stops as needed
+                ),
+              ),
+            ),
+          ),
+
           // Overlay text and content
-          Center(
+          const Center(
             child: Padding(
-              padding: const EdgeInsets.all(20.0),
+              padding: EdgeInsets.all(20.0),
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
@@ -78,34 +95,34 @@ class HeroSectionState extends State<HeroSection> {
                     style: TextStyle(
                       fontSize: 36,
                       fontWeight: FontWeight.bold,
-                      color: Colors.white.withOpacity(0.9),
+                      color: Colors.white,
                       shadows: [
                         Shadow(
                           blurRadius: 10.0,
-                          color: Colors.black.withOpacity(0.9),
-                          offset: const Offset(0, 3),
+                          color: Colors.black,
+                          offset: Offset(0, 3),
                         ),
                       ],
                     ),
                     textAlign: TextAlign.center,
                   ),
-                  const SizedBox(height: 20),
+                  SizedBox(height: 20),
                   Text(
                     'Explore captivating stories and dive into magical worlds.',
                     style: TextStyle(
                       fontSize: 16,
-                      color: Colors.white.withOpacity(0.8),
+                      color: Colors.white,
                       shadows: [
                         Shadow(
                           blurRadius: 8.0,
-                          color: Colors.black.withOpacity(0.7),
-                          offset: const Offset(0, 2),
+                          color: Colors.black,
+                          offset: Offset(0, 2),
                         ),
                       ],
                     ),
                     textAlign: TextAlign.center,
                   ),
-                  const SizedBox(height: 40),
+                  SizedBox(height: 40),
                 ],
               ),
             ),

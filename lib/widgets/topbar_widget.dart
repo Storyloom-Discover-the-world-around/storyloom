@@ -2,10 +2,11 @@ import 'package:flutter/material.dart';
 
 class TopBarWidget extends StatefulWidget {
   final Function(int) onMenuItemSelected;
+
   const TopBarWidget({
-    super.key,
+    Key? key,
     required this.onMenuItemSelected,
-  });
+  }) : super(key: key);
 
   @override
   State<TopBarWidget> createState() => _TopBarWidgetState();
@@ -41,7 +42,7 @@ class _TopBarWidgetState extends State<TopBarWidget> {
               // Menu button
               TextButton(
                 style: ButtonStyle(
-                  shape: WidgetStateProperty.all(
+                  shape: MaterialStateProperty.all(
                     RoundedRectangleBorder(
                       side: const BorderSide(color: Colors.blue),
                       borderRadius: BorderRadius.circular(22),
@@ -75,11 +76,10 @@ class _TopBarWidgetState extends State<TopBarWidget> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         _buildMenuItem("Home", 0),
-                        _buildMenuItem("Stories", 1),
-                        _buildMenuItem("Genres", 2),
-                        _buildMenuItem("Folktales", 3),
-                        _buildMenuItem("Contribute", 4),
-                        _buildMenuItem("Contact", 5),
+                        _buildMenuItem("Genres", 1),
+                        _buildMenuItem("Folktales", 2),
+                        _buildMenuItem("Contribute", 3),
+                        _buildMenuItem("Contact", 4),
                       ],
                     ),
                   )

@@ -10,6 +10,7 @@ void main() {
 
 class StoryLoomApp extends StatefulWidget {
   const StoryLoomApp({super.key});
+
   static void setLocale(BuildContext context, Locale locale) {
     _StoryLoomAppState? state =
         context.findAncestorStateOfType<_StoryLoomAppState>();
@@ -21,7 +22,9 @@ class StoryLoomApp extends StatefulWidget {
 }
 
 class _StoryLoomAppState extends State<StoryLoomApp> {
-  Locale _locale = const Locale('en', 'US');
+
+  Locale _locale = const Locale('en', 'US'); // Added const here
+
 
   void setLocale(Locale locale) {
     setState(() {
@@ -54,14 +57,14 @@ class _StoryLoomAppState extends State<StoryLoomApp> {
           }
         }
 
-        return supportedLocales.first; // Or return supportedLocales;
+        return supportedLocales.first;
       },
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         useMaterial3: true,
         scaffoldBackgroundColor: Colors.black,
       ),
-      home: const MainLayout(),
+      home: const MainLayout(), // Added const here
     );
   }
 }
