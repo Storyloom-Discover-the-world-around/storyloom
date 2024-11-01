@@ -54,10 +54,6 @@ class CategoriesWidget extends StatelessWidget {
                           'https://storyloom.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1589874186480-ecd085096d68%3Fq%3D80%26w%3D1887%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=1920&q=75',
                       title: 'Science Fiction',
                       category: "Science Fiction"),
-
-                          'https://i.pinimg.com/236x/54/93/22/549322041d3eb23527fbf1d5e1d4bafa.jpg',
-                      title: 'Adventure',
-                      category: "Adventure"),
                   CategoriesCardWidget(
                       image:
                           'https://i.pinimg.com/236x/54/93/22/549322041d3eb23527fbf1d5e1d4bafa.jpg',

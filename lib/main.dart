@@ -2,6 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:storyloom/localization/demo_localization.dart';
+import 'package:storyloom/routes/routes.dart';
 import 'package:storyloom/widgets/main_layout.dart';
 
 void main() {
@@ -34,8 +35,9 @@ class _StoryLoomAppState extends State<StoryLoomApp> {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return MaterialApp.router(
       title: 'Storyloom',
+      routerConfig: router,
       debugShowCheckedModeBanner: false,
       localizationsDelegates: const [
         DemoLocalization.delegate,
@@ -64,7 +66,6 @@ class _StoryLoomAppState extends State<StoryLoomApp> {
         useMaterial3: true,
         scaffoldBackgroundColor: Colors.black,
       ),
-      home: const MainLayout(), // Added const here
     );
   }
 }
