@@ -1,0 +1,652 @@
+[
+  {
+    "id": "_1",
+    "title": "The Firebird",
+    "genre": "Russian Folktale",
+    "story": {
+      "en": "Once upon a time, in a faraway kingdom, there was a powerful tsar who had a magnificent garden filled with all sorts of beautiful flowers and rare trees. The pride of the garden was the Firebird, a magical creature with feathers that glowed like flames. Every night, the Firebird would come to the garden to feast on the golden apples, but no one could catch it. The tsar's youngest son, Prince Ivan, decided to embark on a quest to capture the Firebird. With the help of a wise wolf, Ivan faced many challenges, including battling a wicked sorcerer and rescuing a princess. In the end, Ivan captured the Firebird and brought it back to his father, earning his place as the rightful heir to the throne.",
+      "РУ": "Давным-давно в далеком царстве был могущественный царь, у которого был великолепный сад, наполненный самыми красивыми цветами и редкими деревьями. Гордостью сада была Жар-птица, магическое существо с перьями, которые светились, как пламя. Каждую ночь Жар-птица прилетала в сад, чтобы полакомиться золотыми яблоками, но никто не мог ее поймать. Младший сын царя, князь Иван, решил отправиться в путь, чтобы поймать Жар-птицу. С помощью мудрого волка Иван преодолел множество испытаний, в том числе сразился с злым колдуном и спас принцессу. В конце концов, Иван поймал Жар-птицу и привел ее к своему отцу, заработав свое место в качестве законного наследника трона."
+    },
+    "image": "https://i.pinimg.com/564x/ca/a6/b7/caa6b7765a6c9f19b355f44bb0d561b2.jpg"
+  },
+  {
+    "id": "_2",
+    "title": "Vasilisa the Beautiful",
+    "genre": "Russian Folktale",
+    "story": {
+      "en": "Vasilisa, a kind and beautiful girl, lived with her wicked stepmother and stepsisters. Before her mother died, she gave Vasilisa a magical doll that would protect her from harm. The stepmother sent Vasilisa into the dark forest to fetch fire from Baba Yaga, the fearsome witch. With the help of her magical doll, Vasilisa completed the impossible tasks Baba Yaga set for her. Impressed but angry, Baba Yaga let Vasilisa go, and she returned home with a skull lantern that burned her stepfamily to ashes. Vasilisa later became a skilled weaver and eventually married the Tsar.",
+      "РУ": "Василиса, добрая и красивая девушка, жила со своей злой мачехой и сводными сестрами. Перед смертью мать подарила Василисе волшебную куклу, которая защищала ее от бед. Мачеха отправила Василису в темный лес за огнем от Бабы-Яги, страшной ведьмы. С помощью своей волшебной куклы Василиса выполнила все невозможные задания, которые ей дала Баба-Яга. Ведьма, впечатленная, но разозленная, отпустила Василису, и та вернулась домой с черепом-фонарем, который сжег ее злую семью. Василиса позже стала искусной ткачихой и в конце концов вышла замуж за царя."
+    },
+    "image": "https://i.pinimg.com/564x/22/56/af/2256af6aeafad2519330027414b90b7f.jpg"
+  },
+  {
+    "id": "_3",
+    "title": "The Snow Maiden",
+    "genre": "Russian Folktale",
+    "story": {
+      "en": "An elderly couple, who had no children, built a snow girl in the midst of a harsh winter. Miraculously, the snow girl, Snegurochka, came to life and became their daughter. She was a beautiful and gentle child but longed to experience the warmth of summer. As spring arrived and the weather warmed, Snegurochka began to feel sad. One day, while playing with other children, she melted away in the heat of the sun, leaving her parents heartbroken but grateful for the brief joy she had brought to their lives.",
+      "РУ": "Пожилая пара, у которых не было детей, слепила снежную девочку посреди суровой зимы. Чудесным образом снежная девочка, Снегурочка, ожила и стала их дочерью. Она была красивым и нежным ребенком, но мечтала почувствовать тепло лета. Когда наступила весна и погода потеплела, Снегурочка начала грустить. Однажды, играя с другими детьми, она растаяла под солнечными лучами, оставив своих родителей с разбитыми сердцами, но благодарными за ту краткую радость, которую она принесла в их жизнь."
+    },
+    "image": "https://i.pinimg.com/736x/5f/c5/62/5fc562e945a41c737e93d8f7e9f82e96.jpg"
+  },
+  {
+    "id": "_4",
+    "title": "Ivan and the Gray Wolf",
+    "genre": "Russian Folktale",
+    "story": {
+      "en": "Prince Ivan set out on a journey to capture the magical Firebird for his father, the Tsar. Along the way, he encountered a talking Gray Wolf, who offered to help him. The wolf carried Ivan on its back and guided him to the Firebird, the Horse with the Golden Mane, and the beautiful Princess Elena. With the wolf's help, Ivan successfully completed each task, but his jealous brothers killed him and took the treasures for themselves. The Gray Wolf revived Ivan with the Water of Life, and Ivan returned to expose his brothers' treachery, eventually marrying Elena and inheriting the throne.",
+      "РУ": "Князь Иван отправился в путешествие, чтобы поймать волшебную Жар-птицу для своего отца, царя. По дороге он встретил говорящего Серого Волка, который предложил свою помощь. Волк перенес Ивана на спине и направил его к Жар-птице, Коню с Золотой Гривой и прекрасной принцессе Елене. С помощью Волка Иван успешно выполнил каждое задание, но его завистливые братья убили его и забрали сокровища себе. Серый Волк воскресил Ивана Водой Жизни, и Иван вернулся, чтобы разоблачить предательство своих братьев, в конечном итоге женившись на Елене и унаследовав трон."
+    },
+    "image": "https://i.pinimg.com/564x/35/15/f7/3515f7e754d40e1007fc7c6503b33b93.jpg"
+  },
+  {
+    "id": "_5",
+    "title": "The Frog Princess",
+    "genre": "Russian Folktale",
+    "story": {
+      "en": "The youngest son of a Tsar, Prince Ivan, was given an arrow and told to marry the girl who found it. His arrow was found by a frog, which he reluctantly married. However, the frog was actually a beautiful princess named Vasilisa, cursed by an evil sorcerer. Vasilisa's wisdom and magic helped Ivan overcome many challenges, and she eventually revealed her true form to him. Despite this, Ivan burned her frog skin, breaking the curse but causing Vasilisa to disappear. Ivan went on a long journey to find her, facing many dangers, and they were finally reunited, breaking the curse forever.",
+      "РУ": "Младший сын царя, князь Иван, получил стрелу и был приказан жениться на девушке, которая ее найдет. Его стрелу нашла лягушка, на которой он неохотно женился. Однако лягушка на самом деле была прекрасной принцессой по имени Василиса, проклятой злым колдуном. Мудрость и магия Василисы помогли Ивану преодолеть множество испытаний, и она в конце концов раскрыла ему свою истинную форму. Несмотря на это, Иван сжег ее лягушачью кожу, сняв проклятие, но Василиса исчезла. Иван отправился в долгое путешествие, чтобы найти ее, преодолев множество опасностей, и они наконец воссоединились, окончательно сняв проклятие."
+    },
+    "image": "https://i.pinimg.com/564x/3d/0c/d5/3d0cd575c8f5ea2a15053beda2cfeede.jpg"
+  },
+  {
+    "id": "_6",
+    "title": "La Leyenda de la Llorona",
+    "genre": "Spanish Folktale",
+    "story": {
+      "en": "In a small village in Mexico, there was once a beautiful woman named Maria who was deeply in love with a nobleman. They had two children together, but the nobleman eventually left Maria for another woman. Devastated and consumed by jealousy, Maria took her children to the river and, in a moment of madness, drowned them. Realizing what she had done, she was overcome with grief and wandered the riverbanks, wailing for her lost children. From that day on, her spirit, known as La Llorona, haunted the area, crying and searching for her children. It is said that if you hear her wailing, you should be careful, as she might mistake you for one of her children and take you with her to the afterlife.",
+      "es": "En un pequeño pueblo de México, había una vez una hermosa mujer llamada María que estaba profundamente enamorada de un noble. Tuvieron dos hijos juntos, pero el noble finalmente dejó a María por otra mujer. Devastada y consumida por los celos, María llevó a sus hijos al río y, en un momento de locura, los ahogó. Al darse cuenta de lo que había hecho, fue invadida por el dolor y vagó por las orillas del río, llorando por sus hijos perdidos. Desde ese día, su espíritu, conocido como La Llorona, rondaba por la zona, llorando y buscando a sus hijos. Se dice que si escuchas su llanto, debes tener cuidado, ya que podría confundirte con uno de sus hijos y llevarte con ella al más allá."
+    },
+    "image": "https://i.pinimg.com/564x/05/4c/ab/054cabd3d6ee323a3f486866612985c3.jpg"
+  },
+  {
+    "id": "_7",
+    "title": "El Cid Campeador",
+    "genre": "Spanish Folktale",
+    "story": {
+      "en": "Rodrigo Díaz de Vivar, known as El Cid, was a noble warrior in medieval Spain. Banished by King Alfonso VI, El Cid led a group of loyal followers in battles against the Moors, becoming a legendary hero. His courage, honor, and skill in battle earned him the title 'El Cid Campeador,' meaning 'The Champion.' Despite his exile, El Cid continued to fight for his country, eventually capturing the city of Valencia. His legacy lived on as a symbol of Spanish chivalry, and his tale became one of the most celebrated in Spanish folklore.",
+      "es": "Rodrigo Díaz de Vivar, conocido como El Cid, fue un noble guerrero en la España medieval. Desterrado por el Rey Alfonso VI, El Cid lideró a un grupo de leales seguidores en batallas contra los moros, convirtiéndose en un héroe legendario. Su valentía, honor y habilidad en la batalla le valieron el título de 'El Cid Campeador,' que significa 'El Campeón.' A pesar de su exilio, El Cid continuó luchando por su país, capturando finalmente la ciudad de Valencia. Su legado perduró como un símbolo de la caballería española, y su historia se convirtió en una de las más celebradas en el folclore español."
+    },
+    "image": "https://i.pinimg.com/564x/dd/23/35/dd2335e29c561fc6cf758e43dc0b3669.jpg"
+  },
+  {
+    "id": "_8",
+    "title": "The Legend of Don Quixote",
+    "genre": "Spanish Folktale",
+    "story": {
+      "en": "Don Quixote, an aging gentleman from La Mancha, became obsessed with tales of chivalry and knights. He decided to become a knight-errant himself, taking up the name Don Quixote de la Mancha. With his loyal squire, Sancho Panza, Don Quixote set out on a series of adventures, fighting windmills he believed to be giants and mistaking inns for castles. Though often misguided and delusional, Don Quixote's idealism and determination made him a beloved figure in Spanish folklore, representing the tension between reality and imagination.",
+      "es": "Don Quijote, un caballero mayor de La Mancha, se obsesionó con los cuentos de caballería y caballeros. Decidió convertirse en un caballero andante él mismo, tomando el nombre de Don Quijote de la Mancha. Con su leal escudero, Sancho Panza, Don Quijote emprendió una serie de aventuras, luchando contra molinos de viento que creía ser gigantes y confundiendo posadas con castillos. Aunque a menudo era mal guiado y delirante, el idealismo y la determinación de Don Quijote lo convirtieron en una figura querida en el folclore español, representando la tensión entre la realidad y la imaginación."
+    },
+    "image": "https://i.pinimg.com/564x/ca/a6/b7/caa6b7765a6c9f19b355f44bb0d561b2.jpg"
+  },
+  {
+    "id": "_9",
+    "title": "The Legend of El Coco",
+    "genre": "Spanish Folktale",
+    "story": {
+      "en": "El Coco is a mythical creature from Spanish and Latin American folklore, used by parents to scare children into good behavior. It is said that El Coco, also known as 'The Bogeyman,' comes at night to take away children who misbehave or refuse to sleep. The creature is often described as a shapeless figure or a hairy monster that hides under beds or in closets, waiting to snatch naughty children. The legend of El Coco serves as a cautionary tale, teaching children the importance of obedience and discipline.",
+      "es": "El Coco es una criatura mítica del folclore español y latinoamericano, usada por los padres para asustar a los niños y lograr que se comporten bien. Se dice que El Coco, también conocido como 'El Hombre del Saco,' viene por la noche para llevarse a los niños que se portan mal o se niegan a dormir. La criatura se describe a menudo como una figura amorfa o un monstruo peludo que se esconde bajo las camas o en los armarios, esperando para atrapar a los niños traviesos. La leyenda de El Coco sirve como un cuento de advertencia, enseñando a los niños la importancia de la obediencia y la disciplina."
+    },
+    "image": "https://i.pinimg.com/564x/cf/02/35/cf0235697b0ab7ae37ea032ba8caf8ae.jpg"
+  },
+  {
+    "id": "_10",
+    "title": "The Legend of La Giralda",
+    "genre": "Spanish Folktale",
+    "story": {
+      "en": "La Giralda is the famous bell tower of the Seville Cathedral in Spain, originally built as a minaret during the Almohad dynasty. According to legend, a great sorcerer named Ahmed built La Giralda to be so tall and magnificent that it could touch the sky. He used powerful magic to make the tower withstand any disaster. When the Christians reconquered Seville, they decided to preserve the tower, adding the belfry and Christian symbols. La Giralda became a symbol of the city and a testament to the blend of Christian and Muslim heritage in Spain.",
+      "es": "La Giralda es la famosa torre campanario de la Catedral de Sevilla en España, originalmente construida como un minarete durante la dinastía almohade. Según la leyenda, un gran hechicero llamado Ahmed construyó La Giralda para que fuera tan alta y magnífica que pudiera tocar el cielo. Utilizó una poderosa magia para hacer que la torre resistiera cualquier desastre. Cuando los cristianos reconquistaron Sevilla, decidieron conservar la torre, añadiendo el campanario y símbolos cristianos. La Giralda se convirtió en un símbolo de la ciudad y en un testimonio de la mezcla de herencia cristiana y musulmana en España."
+    },
+    "image": "https://i.pinimg.com/564x/23/fb/2b/23fb2b46599a23ceb90e68bf738da177.jpg"
+  },
+  {
+    "id": "_11",
+    "title": "Rumpelstiltskin",
+    "genre": "German Folktale",
+    "story": {
+      "en": "Once upon a time, there was a poor miller who had a beautiful daughter. In an attempt to impress the king, the miller lied and said that his daughter could spin straw into gold. The king, intrigued, summoned the daughter to his castle and locked her in a room filled with straw, demanding that she spin it into gold by morning. The girl was distraught, knowing she could not perform such a task, when suddenly, a strange little man appeared and offered to spin the straw into gold in exchange for something of value. The girl gave him her necklace, and the little man kept his promise. The next night, the king demanded more gold, and the little man returned, this time asking for the girl's ring. On the third night, the king demanded even more gold, and the little man asked for the girl's firstborn child in exchange. Desperate, the girl agreed. When she later became queen and had a child, the little man returned to claim his prize. However, he agreed to spare the child if the queen could guess his name. After many attempts, the queen finally discovered the little man's name—Rumpelstiltskin—and he disappeared in a fit of rage, never to be seen again.",
+      "de": "Es war einmal ein armer Müller, der eine schöne Tochter hatte. Um den König zu beeindrucken, log der Müller und sagte, seine Tochter könne Stroh zu Gold spinnen. Der König, neugierig geworden, rief die Tochter in sein Schloss und sperrte sie in ein Zimmer voller Stroh, mit der Forderung, es bis zum Morgen in Gold zu verwandeln. Das Mädchen war verzweifelt, da sie wusste, dass sie diese Aufgabe nicht erfüllen konnte, als plötzlich ein seltsamer kleiner Mann erschien und anbot, das Stroh gegen etwas Wertvolles in Gold zu spinnen. Das Mädchen gab ihm ihre Halskette, und der kleine Mann hielt sein Versprechen. In der nächsten Nacht verlangte der König noch mehr Gold, und der kleine Mann kehrte zurück und forderte dieses Mal den Ring des Mädchens. In der dritten Nacht verlangte der König noch mehr Gold, und der kleine Mann verlangte im Gegenzug das erstgeborene Kind des Mädchens. Verzweifelt stimmte das Mädchen zu. Als sie später Königin wurde und ein Kind bekam, kehrte der kleine Mann zurück, um seinen Preis einzufordern. Er versprach jedoch, das Kind zu verschonen, wenn die Königin seinen Namen erraten könnte. Nach vielen Versuchen entdeckte die Königin schließlich den Namen des kleinen Mannes – Rumpelstilzchen – und er verschwand vor Wut, nie wieder gesehen zu werden."
+    },
+    "image": "https://i.pinimg.com/564x/61/cd/92/61cd928fb32cb5ee6d8cb467e143c8dd.jpg"
+  },
+  {
+    "id": "_12",
+    "title": "Hansel and Gretel",
+    "genre": "German Folktale",
+    "story": {
+      "en": "Hansel and Gretel were the children of a poor woodcutter. When a great famine struck the land, their wicked stepmother convinced their father to abandon them in the forest. Hansel and Gretel left a trail of breadcrumbs to find their way back, but birds ate the crumbs, leaving them lost. They stumbled upon a house made of candy and gingerbread, owned by a wicked witch who lured them inside to eat them. However, the clever children outwitted the witch, pushing her into her own oven and escaping with her treasure. They returned home to their father, who had since regretted his actions, and they all lived happily ever after.",
+      "de": "Hänsel und Gretel waren die Kinder eines armen Holzfällers. Als eine große Hungersnot das Land heimsuchte, überzeugte ihre böse Stiefmutter ihren Vater, sie im Wald auszusetzen. Hänsel und Gretel hinterließen eine Spur aus Brotkrumen, um den Weg zurückzufinden, doch die Vögel fraßen die Krumen auf, sodass sie sich verirrten. Sie stießen auf ein Haus aus Süßigkeiten und Lebkuchen, das einer bösen Hexe gehörte, die sie hereinlockte, um sie zu fressen. Doch die cleveren Kinder überlisteten die Hexe, schoben sie in ihren eigenen Ofen und entkamen mit ihrem Schatz. Sie kehrten zu ihrem Vater zurück, der seine Tat inzwischen bereut hatte, und sie lebten glücklich bis ans Ende ihrer Tage."
+    },
+    "image": "https://i.pinimg.com/564x/ca/a6/b7/caa6b7765a6c9f19b355f44bb0d561b2.jpg"
+  },
+  {
+    "id": "_13",
+    "title": "The Pied Piper of Hamelin",
+    "genre": "German Folktale",
+    "story": {
+      "en": "The town of Hamelin was overrun with rats, and the townspeople were desperate for a solution. A mysterious piper dressed in multicolored clothing appeared, offering to rid the town of its rats in exchange for a large sum of money. The townspeople agreed, and the piper played his magical flute, leading the rats into the Weser River, where they drowned. However, the townspeople refused to pay the piper. In revenge, the piper played his flute again, this time leading the town's children into a cave, where they disappeared forever. The legend serves as a warning about the consequences of breaking promises.",
+      "de": "Die Stadt Hameln wurde von Ratten überrannt, und die Bürger waren verzweifelt auf der Suche nach einer Lösung. Ein mysteriöser Pfeifer, gekleidet in bunte Kleidung, erschien und bot an, die Stadt gegen eine große Geldsumme von den Ratten zu befreien. Die Bürger stimmten zu, und der Pfeifer spielte auf seiner magischen Flöte, führte die Ratten in die Weser, wo sie ertranken. Die Bürger weigerten sich jedoch, den Pfeifer zu bezahlen. Aus Rache spielte der Pfeifer erneut auf seiner Flöte und führte diesmal die Kinder der Stadt in eine Höhle, wo sie für immer verschwanden. Die Legende dient als Warnung vor den Folgen gebrochener Versprechen."
+    },
+    "image": "https://i.pinimg.com/736x/5f/c5/62/5fc562e945a41c737e93d8f7e9f82e96.jpg"
+  },
+  {
+    "id": "_14",
+    "title": "Snow White",
+    "genre": "German Folktale",
+    "story": {
+      "en": "Snow White was a beautiful princess whose stepmother, the Evil Queen, was jealous of her beauty. The Queen ordered a huntsman to take Snow White into the forest and kill her, but the huntsman couldn't bring himself to do it and let her go. Snow White found refuge in the home of seven dwarfs, who welcomed her. The Queen discovered that Snow White was still alive and attempted to kill her with a poisoned apple. Snow White fell into a deep sleep, but a prince who had fallen in love with her broke the curse with a kiss. Snow White awoke, and they lived happily ever after.",
+      "de": "Schneewittchen war eine schöne Prinzessin, deren Stiefmutter, die böse Königin, neidisch auf ihre Schönheit war. Die Königin befahl einem Jäger, Schneewittchen in den Wald zu bringen und sie zu töten, doch der Jäger konnte es nicht über sich bringen und ließ sie gehen. Schneewittchen fand Zuflucht im Haus von sieben Zwergen, die sie willkommen hießen. Die Königin entdeckte, dass Schneewittchen noch am Leben war, und versuchte, sie mit einem vergifteten Apfel zu töten. Schneewittchen fiel in einen tiefen Schlaf, aber ein Prinz, der sich in sie verliebt hatte, brach den Fluch mit einem Kuss. Schneewittchen erwachte, und sie lebten glücklich bis ans Ende ihrer Tage."
+    },
+    "image": "https://i.pinimg.com/564x/22/56/af/2256af6aeafad2519330027414b90b7f.jpg"
+  },
+  {
+    "id": "_15",
+    "title": "The Bremen Town Musicians",
+    "genre": "German Folktale",
+    "story": {
+      "en": "A donkey, a dog, a cat, and a rooster, all old and unwanted by their owners, decided to run away and become musicians in the town of Bremen. On their journey, they came across a band of robbers living in a house. The animals stood on each other's backs and made a terrible noise, scaring the robbers away. The animals moved into the house and lived together happily, never reaching Bremen but finding a new life free from their past hardships.",
+      "de": "Ein Esel, ein Hund, eine Katze und ein Hahn, alle alt und von ihren Besitzern unerwünscht, beschlossen, wegzulaufen und in der Stadt Bremen Musiker zu werden. Auf ihrer Reise stießen sie auf eine Räuberbande, die in einem Haus lebte. Die Tiere stellten sich aufeinander und machten ein schreckliches Geräusch, das die Räuber in die Flucht schlug. Die Tiere zogen in das Haus ein und lebten glücklich zusammen, erreichten niemals Bremen, fanden aber ein neues Leben frei von ihren früheren Härten."
+    },
+    "image": "https://i.pinimg.com/564x/05/5a/12/055a121c7bea57356c327971f39f2677.jpg"
+  },
+  {
+    "id": "_16",
+    "title": "La Belle et la Bête",
+    "genre": "French Folktale",
+    "story": {
+      "en": "Once upon a time, a wealthy merchant had three daughters. The youngest, named Belle, was kind and beautiful. One day, the merchant lost all his wealth and was forced to live in the countryside with his daughters. During a trip to regain his fortune, the merchant became lost in a forest and stumbled upon a grand castle. Inside, he found food and shelter, but as he left, he picked a rose for Belle. This angered the castle's owner, a fearsome Beast, who demanded the merchant's life in exchange for the rose. To save her father, Belle offered to take his place. As she lived with the Beast, she discovered that he was not as terrifying as he seemed and grew fond of him. Eventually, Belle's love broke the spell that had turned the Beast into a monster, revealing him to be a handsome prince. They lived happily ever after, teaching that true beauty lies within.",
+      "fr": "Il était une fois un riche marchand qui avait trois filles. La plus jeune, nommée Belle, était gentille et belle. Un jour, le marchand perdit toute sa fortune et fut contraint de vivre à la campagne avec ses filles. Lors d'un voyage pour retrouver sa fortune, le marchand se perdit dans une forêt et tomba sur un grand château. À l'intérieur, il trouva de la nourriture et un abri, mais en partant, il cueillit une rose pour Belle. Cela mit en colère le propriétaire du château, une Bête redoutable, qui exigea la vie du marchand en échange de la rose. Pour sauver son père, Belle proposa de prendre sa place. En vivant avec la Bête, elle découvrit qu'il n'était pas aussi terrifiant qu'il en avait l'air et s'attacha à lui. Finalement, l'amour de Belle brisa le sort qui avait transformé la Bête en monstre, révélant un prince beau et charmant. Ils vécurent heureux pour toujours, enseignant que la véritable beauté réside à l'intérieur."
+    },
+    "image": "https://i.pinimg.com/564x/25/9e/0b/259e0b2201d7b323337549932df0f9d2.jpg"
+  },
+  {
+    "id": "_17",
+    "title": "Little Red Riding Hood",
+    "genre": "French Folktale",
+    "story": {
+      "en": "A little girl named Red Riding Hood was sent by her mother to visit her grandmother, bringing her a basket of food. On her way, she met a wolf who asked where she was going. Red Riding Hood innocently told him, and the wolf hurried to the grandmother's house, ate her, and disguised himself in her clothes. When Red Riding Hood arrived, she noticed that her 'grandmother' looked different. The wolf then tried to eat Red Riding Hood, but a passing hunter heard her cries and came to the rescue, killing the wolf and saving both Red Riding Hood and her grandmother.",
+      "fr": "Une petite fille nommée Chaperon Rouge fut envoyée par sa mère pour rendre visite à sa grand-mère, lui apportant un panier de nourriture. En chemin, elle rencontra un loup qui lui demanda où elle allait. Chaperon Rouge lui répondit innocemment, et le loup se précipita chez la grand-mère, la mangea, et se déguisa en elle. Lorsque Chaperon Rouge arriva, elle remarqua que sa 'grand-mère' avait un aspect différent. Le loup tenta alors de manger Chaperon Rouge, mais un chasseur qui passait par là entendit ses cris et vint à sa rescousse, tuant le loup et sauvant à la fois Chaperon Rouge et sa grand-mère."
+    },
+    "image": "https://i.pinimg.com/564x/65/5d/25/655d2572b0fd2e9d8a15217dac4bac26.jpg"
+  },
+  {
+    "id": "_18",
+    "title": "Cinderella",
+    "genre": "French Folktale",
+    "story": {
+      "en": "Cinderella was a kind and beautiful girl who lived with her cruel stepmother and stepsisters. They forced her to do all the housework and treated her poorly. One day, the prince of the kingdom announced a grand ball, and Cinderella's stepsisters were invited, but she was not. However, Cinderella's Fairy Godmother appeared and magically transformed her rags into a beautiful gown, complete with glass slippers. She went to the ball and danced with the prince, but had to leave before midnight when the magic wore off. In her haste, she left behind one glass slipper. The prince searched the kingdom for the girl who fit the slipper, and when he found Cinderella, they were married and lived happily ever after.",
+      "fr": "Cendrillon était une fille gentille et belle qui vivait avec sa cruelle belle-mère et ses demi-sœurs. Elles la forçaient à faire tout le ménage et la traitaient mal. Un jour, le prince du royaume annonça un grand bal, et les demi-sœurs de Cendrillon furent invitées, mais pas elle. Cependant, la marraine fée de Cendrillon apparut et transforma magiquement ses haillons en une belle robe, complétée par des pantoufles de verre. Elle alla au bal et dansa avec le prince, mais elle dut partir avant minuit lorsque la magie s'éteignit. Dans sa hâte, elle laissa derrière elle une pantoufle de verre. Le prince parcourut le royaume à la recherche de la fille qui pourrait enfiler la pantoufle, et quand il trouva Cendrillon, ils se marièrent et vécurent heureux pour toujours."
+    },
+    "image": "https://i.pinimg.com/564x/49/2d/48/492d48821b3071e764eea62a1dfba7df.jpg"
+  },
+  {
+    "id": "_19",
+    "title": "Bluebeard",
+    "genre": "French Folktale",
+    "story": {
+      "en": "Bluebeard was a wealthy and powerful man known for his blue-colored beard. He married many women, but they all mysteriously disappeared. When he married his latest wife, he gave her the keys to all his rooms but forbade her from entering one in particular. Curiosity got the better of her, and she opened the forbidden door, discovering the bodies of Bluebeard's previous wives. Terrified, she managed to delay Bluebeard's wrath until her brothers arrived and killed him, saving her from his murderous intentions.",
+      "fr": "Barbe Bleue était un homme riche et puissant, connu pour sa barbe bleue. Il épousa de nombreuses femmes, mais elles disparurent toutes mystérieusement. Lorsqu'il épousa sa dernière femme, il lui donna les clés de toutes ses chambres mais lui interdit d'entrer dans une en particulier. La curiosité l'emporta sur elle, et elle ouvrit la porte interdite, découvrant les corps des précédentes épouses de Barbe Bleue. Terrifiée, elle réussit à retarder la colère de Barbe Bleue jusqu'à ce que ses frères arrivent et le tuent, la sauvant ainsi de ses intentions meurtrières."
+    },
+    "image": "https://i.pinimg.com/564x/ab/8f/37/ab8f378f3a854ad7e7447e11d758d2a1.jpg"
+  },
+  {
+    "id": "_20",
+    "title": "Sleeping Beauty",
+    "genre": "French Folktale",
+    "story": {
+      "en": "A king and queen, after many years of longing, had a beautiful daughter. To celebrate, they held a grand feast and invited fairies to bless the child. However, one fairy, who was not invited, cursed the princess, predicting that she would prick her finger on a spindle and die. Another fairy altered the curse so that the princess would only fall into a deep sleep for 100 years. The curse came true, but after 100 years, a prince discovered the sleeping princess and kissed her, breaking the spell. They married and lived happily ever after.",
+      "fr": "Un roi et une reine, après de nombreuses années d'attente, eurent une belle fille. Pour célébrer, ils organisèrent un grand festin et invitèrent des fées pour bénir l'enfant. Cependant, une fée, qui n'avait pas été invitée, maudit la princesse, prédisant qu'elle se piquerait le doigt sur un fuseau et mourrait. Une autre fée modifia la malédiction pour que la princesse ne tombe que dans un profond sommeil de 100 ans. La malédiction se réalisa, mais après 100 ans, un prince découvrit la princesse endormie et la réveilla d'un baiser, rompant ainsi le sort. Ils se marièrent et vécurent heureux pour toujours."
+    },
+    "image": "https://i.pinimg.com/564x/a3/1f/33/a31f334fc991d43f7934a8fc03efcbdb.jpg"
+  },
+  {
+    "id": "_21",
+    "title": "The Tale of Tsar Saltan",
+    "genre": "Russian Folktale",
+    "story": {
+      "en": "Tsar Saltan married a beautiful woman, and they soon had a son named Gvidon. However, the Tsar's wicked sisters-in-law were jealous and conspired to have the Tsarina and her son cast into the sea. The mother and child survived and washed ashore on a magical island. Gvidon grew up strong and brave, eventually saving a swan that transformed into a beautiful princess. With the help of the magical creatures on the island, Gvidon returned to his father's kingdom and revealed the truth. The wicked sisters were punished, and Gvidon and his mother were reunited with Tsar Saltan, living happily ever after.",
+      "ru": "Царь Салтан женился на прекрасной женщине, и вскоре у них родился сын по имени Гвидон. Однако злые золовки царя завидовали и замышляли бросить царицу и её сына в море. Мать и ребенок выжили и оказались на волшебном острове. Гвидон вырос сильным и храбрым, однажды он спас лебедя, который превратился в прекрасную принцессу. С помощью волшебных существ на острове Гвидон вернулся в царство своего отца и раскрыл правду. Злые сестры были наказаны, а Гвидон и его мать воссоединились с царем Салтаном и жили долго и счастливо."
+    },
+    "image": "https://i.pinimg.com/564x/4f/40/31/4f40313ce6d49ba6cc3736b3c0e70963.jpg"
+  },
+  {
+    "id": "_22",
+    "title": "The Feather of Finist the Falcon",
+    "genre": "Russian Folktale",
+    "story": {
+      "en": "A poor merchant had three daughters, and the youngest, Maria, was the most beautiful and kind. One day, Maria asked her father to bring her the feather of Finist the Falcon, a magical bird. The father found the feather, and when Maria held it, Finist the Falcon appeared, transforming into a handsome man at night. They fell in love, but her jealous sisters ruined their happiness by driving Finist away. Maria embarked on a perilous journey to find him, facing many challenges. In the end, she found Finist, and her love broke the spell that bound him. They married and lived in happiness.",
+      "ru": "У бедного купца было три дочери, и младшая, Мария, была самой красивой и доброй. Однажды Мария попросила отца принести ей перо Финиста Ясного Сокола, волшебной птицы. Отец нашел перо, и когда Мария взяла его в руки, Финист появился, превращаясь ночью в красивого мужчину. Они полюбили друг друга, но её завистливые сестры разрушили их счастье, прогнав Финиста. Мария отправилась в опасное путешествие, чтобы найти его, преодолевая множество испытаний. В конце концов, она нашла Финиста, и её любовь разрушила заклятие, которое связывало его. Они поженились и жили счастливо."
+    },
+    "image": "https://i.pinimg.com/564x/bd/7b/e0/bd7be0992175750fc85904551d4d9a53.jpg"
+  },
+  {
+    "id": "_23",
+    "title": "The Wise Little Girl",
+    "genre": "Russian Folktale",
+    "story": {
+      "en": "A poor peasant had a clever daughter who could solve any problem. One day, the Tsar set a challenge: to come to his palace neither on foot nor on horseback, neither dressed nor undressed, and neither bringing a gift nor empty-handed. The clever girl arrived riding a goat, wrapped in a fishing net, and carrying a bird in one hand. The Tsar was so impressed by her wisdom that he made her his advisor. The girl used her wit to outsmart the Tsar's greedy ministers, proving that intelligence and cleverness could triumph over wealth and power.",
+      "ru": "У бедного крестьянина была умная дочь, которая могла решить любую задачу. Однажды царь дал задание: прийти к нему во дворец ни пешком, ни верхом, ни одетой, ни раздетой, и не неся подарок, но и не с пустыми руками. Умная девочка пришла, верхом на козе, завернувшись в рыболовную сеть и держа в руке птицу. Царь был настолько впечатлен её мудростью, что сделал её своим советником. Девушка использовала свой ум, чтобы перехитрить жадных министров царя, доказав, что разум и смекалка могут победить богатство и власть."
+    },
+    "image": "https://i.pinimg.com/564x/14/a9/29/14a9299f484918f7145415a9affec200.jpg"
+  },
+  {
+    "id": "_24",
+    "title": "The Stone Flower",
+    "genre": "Russian Folktale",
+    "story": {
+      "en": "Danila, a talented stone carver, became obsessed with creating the perfect piece of art. He heard of a mythical Stone Flower that could teach him the secrets of his craft. Danila journeyed to the realm of the Mistress of the Copper Mountain, who guarded the Stone Flower. She allowed him to see the flower, but in exchange, he had to stay with her forever. However, Danila's love for his fiancée, Katya, was stronger, and with her love and courage, he managed to return home. The Mistress granted him mastery over stone but allowed him to leave her domain, reuniting him with Katya.",
+      "ru": "Данила, талантливый камнерез, одержимый созданием идеального произведения искусства. Он услышал о мифическом Каменном Цветке, который мог бы научить его секретам ремесла. Данила отправился в царство Хозяйки Медной горы, которая охраняла Каменный Цветок. Она позволила ему увидеть цветок, но взамен он должен был остаться с ней навсегда. Однако любовь Данилы к его невесте Кате была сильнее, и с её помощью он смог вернуться домой. Хозяйка даровала ему мастерство в работе с камнем, но позволила покинуть её владения, воссоединив его с Катей."
+    },
+    "image": "https://i.pinimg.com/564x/cd/6f/c1/cd6fc1c4dafa86c06ccfd437ea4aff65.jpg"
+  },
+  {
+    "id": "_25",
+    "title": "The Tale of the Golden Cockerel",
+    "genre": "Russian Folktale",
+    "story": {
+      "en": "Tsar Dodon ruled his kingdom with fear but was always worried about enemies. An astrologer gave him a golden cockerel that would crow to warn of danger. In return, the astrologer asked for any favor he desired. The cockerel served the Tsar well until one day it crowed, signaling danger from the east. Tsar Dodon led his army but found nothing. On his return, the astrologer asked for the Tsar's bride as his reward. Angry, Tsar Dodon struck the astrologer, but the golden cockerel pecked the Tsar to death, fulfilling the astrologer's prophecy that greed and broken promises lead to downfall.",
+      "ru": "Царь Додон правил своим королевством со страхом, но всегда беспокоился об опасности. Астролог дал ему золотого петушка, который должен был кукарекать, чтобы предупредить об опасности. В обмен астролог попросил любую услугу, которую пожелает. Петушок хорошо служил царю, пока однажды он не закукарекал, сигнализируя об опасности с востока. Царь Додон повел свое войско, но ничего не нашел. Возвращаясь, астролог попросил в качестве награды невесту царя. Разъяренный, царь Додон ударил астролога, но золотой петушок клюнул царя насмерть, исполнив пророчество астролога, что жадность и нарушенные обещания ведут к падению."
+    },
+    "image": "https://i.pinimg.com/564x/9d/b5/f0/9db5f06ec7d9d77acf4a04dfbd6f5703.jpg"
+  },
+  {
+    "id": "_26",
+    "title": "El Pozo Amargo (The Bitter Well)",
+    "genre": "Spanish Folktale",
+    "story": {
+      "en": "In Toledo, Spain, there was a well known as El Pozo Amargo, or The Bitter Well. The legend tells of a young Christian girl and a Jewish boy who fell deeply in love. Their love was forbidden by their families, and one night, the girl was found dead at the bottom of the well, having thrown herself in out of despair. Her lover was so heartbroken that he poisoned the well, cursing it so that all who drank from it would taste the bitterness of their forbidden love. The well became a symbol of tragic love and loss, and the story was passed down through generations.",
+      "es": "En Toledo, España, había un pozo conocido como El Pozo Amargo. La leyenda cuenta de una joven cristiana y un joven judío que se enamoraron profundamente. Su amor estaba prohibido por sus familias, y una noche, la chica fue encontrada muerta en el fondo del pozo, habiéndose arrojado allí por desesperación. Su amante estaba tan desconsolado que envenenó el pozo, maldiciéndolo para que todos los que bebieran de él sintieran la amargura de su amor prohibido. El pozo se convirtió en un símbolo de amor trágico y pérdida, y la historia se transmitió a través de generaciones."
+    },
+    "image": "https://i.pinimg.com/564x/a3/fb/c4/a3fbc4b44947edfdfb2074307bd205f4.jpg"
+  },
+  {
+    "id": "_27",
+    "title": "The Legend of Sant Jordi",
+    "genre": "Spanish Folktale",
+    "story": {
+      "en": "Sant Jordi, or Saint George, is the patron saint of Catalonia. According to legend, a dragon terrorized the town of Montblanc, demanding human sacrifices. When the king's daughter was chosen as the next victim, Sant Jordi appeared on a white horse, fought the dragon, and killed it with his lance. From the dragon's blood, a rose bush grew, and Sant Jordi gave the princess a single red rose. To this day, Sant Jordi's Day is celebrated in Catalonia with the exchange of roses and books, symbolizing love and culture.",
+      "es": "Sant Jordi, o San Jorge, es el santo patrón de Cataluña. Según la leyenda, un dragón aterrorizaba la ciudad de Montblanc, exigiendo sacrificios humanos. Cuando la hija del rey fue elegida como la próxima víctima, Sant Jordi apareció en un caballo blanco, luchó contra el dragón y lo mató con su lanza. De la sangre del dragón creció un rosal, y Sant Jordi le dio a la princesa una sola rosa roja. Hasta el día de hoy, el Día de Sant Jordi se celebra en Cataluña con el intercambio de rosas y libros, simbolizando el amor y la cultura."
+    },
+    "image": "https://i.pinimg.com/564x/a5/64/7e/a5647e6d96979feef08eab052dd1762a.jpg"
+  },
+  {
+    "id": "_28",
+    "title": "The Legend of La Encantada",
+    "genre": "Spanish Folktale",
+    "story": {
+      "en": "In the region of Murcia, Spain, there is a legend of La Encantada, a beautiful Moorish princess who was cursed to remain hidden in a cave, guarding her father's treasures. The curse could only be broken by a man who was pure of heart and could resist her beauty. Many men tried to rescue her, but they all succumbed to her charms and were turned to stone. It is said that La Encantada still waits in her cave, and on the night of San Juan, she appears to lure new victims, hoping one day to find her true savior.",
+      "es": "En la región de Murcia, España, hay una leyenda de La Encantada, una hermosa princesa mora que fue maldita para permanecer oculta en una cueva, guardando los tesoros de su padre. La maldición solo podía ser rota por un hombre que fuera puro de corazón y pudiera resistir su belleza. Muchos hombres intentaron rescatarla, pero todos sucumbieron a sus encantos y fueron convertidos en piedra. Se dice que La Encantada todavía espera en su cueva, y en la noche de San Juan, aparece para atraer nuevas víctimas, esperando un día encontrar a su verdadero salvador."
+    },
+    "image": "https://i.pinimg.com/564x/f9/1b/b1/f91bb1976aa230319411bebfac77b22b.jpg"
+  },
+  {
+    "id": "_29",
+    "title": "The Legend of the Lovers of Teruel",
+    "genre": "Spanish Folktale",
+    "story": {
+      "en": "In the city of Teruel, there lived two lovers, Diego and Isabel, who were deeply in love but of different social standings. Diego went to seek his fortune, promising to return in five years to marry Isabel. When he returned, he found Isabel married to another man, believing Diego had died. Diego begged Isabel for a kiss, but she refused out of loyalty to her husband. Heartbroken, Diego died at her feet. At his funeral, Isabel kissed him and collapsed dead beside him. The lovers were buried together, and their story became a symbol of eternal love and tragedy.",
+      "es": "En la ciudad de Teruel, vivían dos amantes, Diego e Isabel, que estaban profundamente enamorados, pero pertenecían a diferentes estamentos sociales. Diego fue a buscar su fortuna, prometiendo regresar en cinco años para casarse con Isabel. Cuando regresó, encontró a Isabel casada con otro hombre, creyendo que Diego había muerto. Diego le suplicó a Isabel un beso, pero ella se negó por lealtad a su esposo. Con el corazón roto, Diego murió a sus pies. En su funeral, Isabel lo besó y colapsó muerta a su lado. Los amantes fueron enterrados juntos, y su historia se convirtió en un símbolo de amor eterno y tragedia."
+    },
+    "image": "https://i.pinimg.com/564x/20/cf/87/20cf875ca7c49f14eaffb4c3d947fb60.jpg"
+  },
+  {
+    "id": "_30",
+    "title": "La Fuente de los 25 Caños",
+    "genre": "Spanish Folktale",
+    "story": {
+      "en": "In the town of Navarrés, there is a fountain known as La Fuente de los 25 Caños (The Fountain of the 25 Spouts). According to legend, the fountain was created by a young woman who prayed for a miracle to bring water to her drought-stricken village. An angel appeared and granted her wish, but warned her that the fountain's water would only flow as long as the villagers remained pure and kind-hearted. For generations, the fountain brought life to the village, but when the people became greedy and selfish, the water stopped flowing, serving as a reminder of the importance of virtue and community.",
+      "es": "En el pueblo de Navarrés, hay una fuente conocida como La Fuente de los 25 Caños. Según la leyenda, la fuente fue creada por una joven que rezó por un milagro para traer agua a su pueblo azotado por la sequía. Un ángel apareció y le concedió su deseo, pero le advirtió que el agua de la fuente solo fluiría mientras los aldeanos permanecieran puros y bondadosos. Durante generaciones, la fuente trajo vida al pueblo, pero cuando la gente se volvió codiciosa y egoísta, el agua dejó de fluir, sirviendo como un recordatorio de la importancia de la virtud y la comunidad."
+    },
+    "image": "https://i.pinimg.com/564x/4b/6d/0f/4b6d0fb9ab6abf2638b8638c4b7b0e61.jpg"
+  },
+  {
+    "id": "_31",
+    "title": "The Fisherman and His Wife",
+    "genre": "German Folktale",
+    "story": {
+      "en": "A poor fisherman caught a magical fish that could grant wishes. Out of kindness, he released the fish. His wife, greedy and unsatisfied with their life, urged him to wish for a better home. The fish granted the wish, but as the wife demanded more—wealth, power, and finally to be ruler of the universe—the fish became annoyed and eventually reversed all the wishes, leaving the couple back in their humble hut. The tale is a moral lesson about the dangers of greed and the importance of contentment.",
+      "de": "Ein armer Fischer fing einen magischen Fisch, der Wünsche erfüllen konnte. Aus Güte ließ er den Fisch frei. Seine Frau, gierig und unzufrieden mit ihrem Leben, drängte ihn, sich ein besseres Zuhause zu wünschen. Der Fisch erfüllte den Wunsch, aber als die Frau mehr verlangte - Reichtum, Macht und schließlich die Herrschaft über das Universum - wurde der Fisch verärgert und machte schließlich alle Wünsche rückgängig, sodass das Paar wieder in ihrer bescheidenen Hütte lebte. Die Geschichte ist eine moralische Lehre über die Gefahren der Gier und die Bedeutung der Zufriedenheit."
+    },
+    "image": "https://i.pinimg.com/564x/5d/06/fd/5d06fda198484da9683f54633b78d149.jpg"
+  },
+  {
+    "id": "_32",
+    "title": "The Seven Ravens",
+    "genre": "German Folktale",
+    "story": {
+      "en": "A poor peasant had seven sons and desperately wished for a daughter. When a daughter was finally born, the seven sons were sent to fetch water for her baptism but accidentally lost the jug. Their father, in anger, cursed them, and they were transformed into ravens. The daughter grew up and, upon learning of her brothers' fate, set out on a journey to rescue them. After facing many trials, she reached the glass mountain where her brothers were trapped, and through her courage and sacrifice, she broke the curse, turning the ravens back into her brothers.",
+      "de": "Ein armer Bauer hatte sieben Söhne und wünschte sich verzweifelt eine Tochter. Als schließlich eine Tochter geboren wurde, wurden die sieben Söhne geschickt, um Wasser für ihre Taufe zu holen, aber sie verloren versehentlich den Krug. Der Vater verfluchte sie in seinem Zorn, und sie verwandelten sich in Raben. Die Tochter wuchs auf und erfuhr von dem Schicksal ihrer Brüder, woraufhin sie sich auf eine Reise machte, um sie zu retten. Nach vielen Prüfungen erreichte sie den gläsernen Berg, wo ihre Brüder gefangen waren, und durch ihren Mut und ihr Opfer brach sie den Fluch, wodurch die Raben wieder zu ihren Brüdern wurden."
+    },
+    "image": "https://i.pinimg.com/564x/a9/da/dc/a9dadca8e4202e0c9e1e6566472b88e8.jpg"
+  },
+  {
+    "id": "_33",
+    "title": "The Golden Goose",
+    "genre": "German Folktale",
+    "story": {
+      "en": "A simpleton named Hans, who was always kind and generous, found a golden goose in the forest. Anyone who tried to touch the goose became stuck to it. As Hans walked through the town with the goose, a comical chain of people stuck to each other formed behind him. When Hans arrived at the palace, the king promised his daughter's hand in marriage to anyone who could make her laugh. The sight of the stuck-together people made the princess laugh, and Hans was rewarded with her hand in marriage and lived happily ever after.",
+      "de": "Ein einfältiger Mann namens Hans, der immer freundlich und großzügig war, fand im Wald eine goldene Gans. Jeder, der versuchte, die Gans zu berühren, blieb daran kleben. Als Hans mit der Gans durch die Stadt ging, bildete sich hinter ihm eine komische Kette von Menschen, die aneinander klebten. Als Hans am Palast ankam, versprach der König die Hand seiner Tochter demjenigen, der sie zum Lachen bringen konnte. Der Anblick der zusammengeklebten Menschen brachte die Prinzessin zum Lachen, und Hans wurde mit ihrer Hand im Ehestand belohnt und lebte glücklich bis ans Ende seiner Tage."
+    },
+    "image": "https://i.pinimg.com/564x/86/c8/2d/86c82dd0293bc4c69abc0bdce3b6d253.jpg"
+  },
+  {
+    "id": "_34",
+    "title": "The Wolf and the Seven Young Goats",
+    "genre": "German Folktale",
+    "story": {
+      "en": "A mother goat left her seven kids alone at home, warning them not to open the door to anyone. The big bad wolf tricked the kids into opening the door by disguising his voice. He devoured six of the kids, but the youngest hid and escaped. When the mother returned, the youngest kid told her everything, and together, they found the wolf sleeping. They cut open the wolf's belly, freed the six kids, and filled the wolf's stomach with stones. When the wolf woke up, he tried to flee but collapsed and died from the weight.",
+      "de": "Eine Mutterziege ließ ihre sieben Geißlein allein zu Hause und warnte sie, niemandem die Tür zu öffnen. Der große böse Wolf täuschte die Kinder, indem er seine Stimme verstellte, sodass sie die Tür öffneten. Er verschlang sechs der Kinder, aber das jüngste versteckte sich und entkam. Als die Mutter zurückkam, erzählte das jüngste Geißlein ihr alles, und zusammen fanden sie den schlafenden Wolf. Sie schnitten dem Wolf den Bauch auf, befreiten die sechs Kinder und füllten den Magen des Wolfs mit Steinen. Als der Wolf aufwachte, versuchte er zu fliehen, brach jedoch unter dem Gewicht zusammen und starb."
+    },
+    "image": "https://i.pinimg.com/564x/1b/f6/e8/1bf6e84a05004ae2ff4f69dd1c744230.jpg"
+  },
+  {
+    "id": "_35",
+    "title": "The Frog King",
+    "genre": "German Folktale",
+    "story": {
+      "en": "A young princess lost her golden ball in a well, and a frog offered to retrieve it in exchange for her companionship. The princess agreed, but once the ball was returned, she ran away, leaving the frog behind. The frog followed her to the palace, and the king insisted that she keep her promise. The princess reluctantly allowed the frog to eat from her plate and sleep on her pillow. The next morning, the frog transformed into a handsome prince, who had been cursed by an evil witch. The princess and the prince fell in love and were married.",
+      "de": "Eine junge Prinzessin verlor ihre goldene Kugel in einem Brunnen, und ein Frosch bot an, sie im Austausch für ihre Gesellschaft zurückzuholen. Die Prinzessin stimmte zu, aber sobald die Kugel zurückgegeben war, rannte sie davon und ließ den Frosch zurück. Der Frosch folgte ihr zum Palast, und der König bestand darauf, dass sie ihr Versprechen hält. Die Prinzessin erlaubte dem Frosch widerwillig, von ihrem Teller zu essen und auf ihrem Kissen zu schlafen. Am nächsten Morgen verwandelte sich der Frosch in einen hübschen Prinzen, der von einer bösen Hexe verflucht worden war. Die Prinzessin und der Prinz verliebten sich und heirateten."
+    },
+    "image": "https://i.pinimg.com/564x/2b/33/9a/2b339aea5bbd845f4f237fd6502aadc3.jpg"
+  },
+  {
+    "id": "_36",
+    "title": "The Little Red Hen",
+    "genre": "French Folktale",
+    "story": {
+      "en": "The Little Red Hen found some grains of wheat and asked her farm friends to help her plant them, but they all refused. She planted, harvested, and baked the wheat into bread all by herself. When the bread was ready, she asked who would help her eat it, and now everyone was eager to join. But the Little Red Hen refused to share, teaching them a lesson about the value of hard work and the consequences of laziness.",
+      "fr": "La Petite Poule Rousse trouva des grains de blé et demanda à ses amis de la ferme de l'aider à les planter, mais ils refusèrent tous. Elle planta, récolta et fit cuire le blé pour en faire du pain toute seule. Lorsque le pain fut prêt, elle demanda qui l'aiderait à le manger, et maintenant tout le monde était prêt à participer. Mais la Petite Poule Rousse refusa de partager, leur apprenant une leçon sur la valeur du travail acharné et les conséquences de la paresse."
+    },
+    "image": "https://i.pinimg.com/564x/a1/0e/e2/a10ee2ebf7e788a4b55e866d91748b94.jpg"
+  },
+  {
+    "id": "_37",
+    "title": "Riquet with the Tuft",
+    "genre": "French Folktale",
+    "story": {
+      "en": "Riquet was a prince born with great intelligence but a strange tuft of hair. An enchantress gave him the power to grant intelligence to the person he loved. At the same time, a princess was born with beauty but little wit. Riquet fell in love with her and gave her his intelligence in exchange for her promise to marry him. Over time, she grew to love Riquet for his kindness and wit, and when they married, he became handsome in her eyes, showing that true beauty comes from love and understanding.",
+      "fr": "Riquet était un prince né avec une grande intelligence mais une étrange touffe de cheveux. Une enchanteresse lui donna le pouvoir de donner de l'intelligence à la personne qu'il aimait. En même temps, une princesse naquit avec de la beauté mais peu d'esprit. Riquet tomba amoureux d'elle et lui donna son intelligence en échange de sa promesse de l'épouser. Au fil du temps, elle en vint à aimer Riquet pour sa gentillesse et son esprit, et lorsqu'ils se marièrent, il devint beau à ses yeux, montrant que la vraie beauté vient de l'amour et de la compréhension."
+    },
+    "image": "https://i.pinimg.com/564x/da/64/15/da6415609eadcd868a9a9e9959825812.jpg"
+  },
+  {
+    "id": "_38",
+    "title": "Puss in Boots",
+    "genre": "French Folktale",
+    "story": {
+      "en": "A poor miller left his youngest son nothing but a cat. However, this was no ordinary cat. Puss in Boots was clever and resourceful, and he promised to make his master rich. The cat caught rabbits and presented them to the king as gifts from the 'Marquis of Carabas,' a title he invented for his master. Through clever tricks and deceptions, Puss in Boots managed to secure wealth, a castle, and even the hand of a princess for his master, proving that intelligence and cunning can overcome any obstacle.",
+      "fr": "Un pauvre meunier ne laissa à son plus jeune fils rien d'autre qu'un chat. Cependant, ce n'était pas un chat ordinaire. Le Chat Botté était intelligent et débrouillard, et il promit de rendre son maître riche. Le chat attrapa des lapins et les présenta au roi comme des cadeaux du 'Marquis de Carabas', un titre qu'il inventa pour son maître. Grâce à des astuces et des tromperies, le Chat Botté réussit à obtenir des richesses, un château et même la main d'une princesse pour son maître, prouvant que l'intelligence et la ruse peuvent surmonter n'importe quel obstacle."
+    },
+    "image": "https://i.pinimg.com/564x/8d/95/08/8d9508ef33bcab8a26fb9f2f970a34ff.jpg"
+  },
+  {
+    "id": "_39",
+    "title": "Beauty and the Beast",
+    "genre": "French Folktale",
+    "story": {
+      "en": "Beauty, a kind and selfless girl, volunteered to live with a fearsome Beast in exchange for her father's freedom. Despite the Beast's frightening appearance, Beauty treated him with kindness and grew to love him. One day, Beauty returned home to visit her family, but when she saw in a dream that the Beast was dying of a broken heart, she rushed back to his side. Her love broke the spell that had turned the prince into a Beast, and they lived happily ever after, teaching the lesson that true beauty lies within.",
+      "fr": "La Belle, une fille gentille et altruiste, se porta volontaire pour vivre avec une Bête terrifiante en échange de la liberté de son père. Malgré l'apparence effrayante de la Bête, la Belle le traita avec gentillesse et finit par l'aimer. Un jour, la Belle rentra chez elle pour rendre visite à sa famille, mais lorsqu'elle vit en rêve que la Bête mourait de chagrin, elle se précipita à ses côtés. Son amour brisa le sort qui avait transformé le prince en Bête, et ils vécurent heureux pour toujours, enseignant la leçon que la vraie beauté réside à l'intérieur."
+    },
+    "image": "https://i.pinimg.com/564x/5d/97/3f/5d973f2c340656e1c298bec33e86a05f.jpg"
+  },
+  {
+    "id": "_40",
+    "title": "Little Thumb",
+    "genre": "French Folktale",
+    "story": {
+      "en": "Little Thumb was the youngest of seven brothers, small but very clever. When their parents, too poor to feed them, abandoned them in the forest, Little Thumb left a trail of breadcrumbs to find their way back. However, birds ate the crumbs, and they became lost. They stumbled upon a giant's house, and Little Thumb, using his wits, managed to save his brothers from being eaten by the giant. He stole the giant's magical boots and treasure, and they returned home, rich and safe, showing that intelligence and bravery are more valuable than size or strength.",
+      "fr": "Le Petit Poucet était le plus jeune de sept frères, petit mais très intelligent. Lorsque leurs parents, trop pauvres pour les nourrir, les abandonnèrent dans la forêt, le Petit Poucet laissa une traînée de miettes de pain pour retrouver leur chemin. Cependant, les oiseaux mangèrent les miettes, et ils se perdirent. Ils tombèrent sur la maison d'un géant, et le Petit Poucet, grâce à son ingéniosité, réussit à sauver ses frères de la voracité du géant. Il vola les bottes magiques et le trésor du géant, et ils rentrèrent chez eux, riches et en sécurité, montrant que l'intelligence et le courage sont plus précieux que la taille ou la force."
+    },
+    "image": "https://i.pinimg.com/564x/e4/f8/ea/e4f8ea31fce52518ad44af6f5ffbaf30.jpg"
+  },
+  {
+    "id": "_41",
+    "title": "The Grateful Crane",
+    "genre": "Japanese Folktale",
+    "story": {
+      "en": "Once upon a time, there was a poor man who rescued a crane caught in a trap. Grateful, the crane transformed into a beautiful woman and became his wife. She wove exquisite cloths from her own feathers, which the man sold to make a living. However, she made him promise never to watch her while she worked. Curiosity got the better of him, and he peeked into the room where she was weaving. To his shock, he saw her true form, and the crane, saddened by the broken promise, flew away, never to return.",
+      "ja": "昔々、ある貧しい男が罠にかかった鶴を助けました。感謝した鶴は美しい女性に変身し、男の妻となりました。彼女は自分の羽を使って美しい布を織り、それを売って男は生計を立てました。しかし、彼女は仕事中に決して覗かないように彼に約束させました。好奇心に駆られた男は、彼女が織っている部屋を覗いてしまいました。驚いたことに、彼は彼女の本当の姿を目にし、約束を破られたことを悲しんだ鶴は飛び去り、二度と戻ってきませんでした。"
+    },
+    "image": "https://i.pinimg.com/564x/1f/66/a3/1f66a3863d1e7668567a459f2c339569.jpg"
+  },
+  {
+    "id": "_42",
+    "title": "The Tale of Urashima Tarō",
+    "genre": "Japanese Folktale",
+    "story": {
+      "en": "Once upon a time, there was a kind fisherman named Urashima Tarō. One day, he rescued a turtle being bullied by children. Grateful, the turtle invited Urashima to the Dragon Palace under the sea. There, he met the beautiful Princess Otohime and spent what felt like a few days in paradise. When he decided to return home, the princess gave him a mysterious box called the 'tamatebako,' warning him never to open it. Upon returning, he found that many years had passed, and everyone he knew was gone. Out of despair, he opened the box, and suddenly, he became an old man, as all the years he had missed caught up to him at once.",
+      "ja": "昔々、浦島太郎という優しい漁師がいました。ある日、彼は子供たちにいじめられていた亀を助けました。感謝した亀は、浦島を海の底にある竜宮城へ招待しました。そこで、彼は美しい乙姫様に出会い、数日間楽園のような時間を過ごしました。帰ることに決めたとき、乙姫様は彼に「玉手箱」と呼ばれる不思議な箱を渡し、決して開けないようにと警告しました。帰ってみると、何年も経っており、彼が知っていた人々はすべて亡くなっていました。絶望の中で、彼は箱を開けてしまい、突然、彼は老人になり、失った年々が一気に彼に追いついたのでした。"
+    },
+    "image": "https://i.pinimg.com/736x/24/cc/83/24cc83dd36049520bdcf7b20fc3d4755.jpg"
+  },
+  {
+    "id": "_43",
+    "title": "The Tale of the Bamboo Cutter",
+    "genre": "Japanese Folktale",
+    "story": {
+      "en": "Once upon a time, there lived a poor bamboo cutter named Taketori no Okina. One day, while cutting bamboo, he discovered a glowing bamboo stalk. Inside, he found a tiny, beautiful girl, no bigger than his thumb. He and his wife, who had no children of their own, decided to raise her and named her Kaguya-hime. As Kaguya-hime grew, her beauty became renowned, and many noblemen came to seek her hand in marriage. However, she refused them all, giving them impossible tasks. Eventually, Kaguya-hime revealed that she was not from Earth but from the Moon and that she must return. On the night of her departure, celestial beings came to take her back. As she ascended to the Moon, she left behind a letter and a vial of the Elixir of Immortality for the Emperor, who had also fallen in love with her. The Emperor, heartbroken, refused the elixir and ordered it to be burned at the top of the highest mountain, which is why the mountain still smokes to this day.",
+      "ja": "昔々、竹取の翁という貧しい竹取がいました。ある日、竹を切っていると、光る竹の茎を見つけました。その中に、親指ほどの小さくて美しい女の子がいました。子供がいなかった彼と妻は彼女を育てることにし、「かぐや姫」と名付けました。かぐや姫が成長すると、その美しさは広く知られるようになり、多くの貴族が彼女の手を求めて訪れました。しかし、彼女は全員を断り、彼らに不可能な課題を課しました。やがて、かぐや姫は自分が地球の人間ではなく、月から来たこと、そして月に戻らなければならないことを明かしました。彼女が帰る夜、天の使いが彼女を迎えに来ました。彼女が月に昇るとき、彼女は天皇に手紙と不老不死の薬を残しましたが、天皇はそれを飲むことを拒み、一番高い山の頂上で焼くように命じました。それ以来、その山は煙を上げ続けていると言われています。"
+    },
+    "image": "https://i.pinimg.com/564x/f9/e2/54/f9e254112c69629fab7bb6acc9ac5a17.jpg"
+  },
+  {
+    "id": "_44",
+    "title": "Momotarō, the Peach Boy",
+    "genre": "Japanese Folktale",
+    "story": {
+      "en": "Once upon a time, there lived an elderly couple who had no children. One day, while the old woman was washing clothes in the river, she found a giant peach floating downstream. She brought it home to share with her husband. When they cut open the peach, they were astonished to find a baby boy inside! They named him Momotarō, meaning 'Peach Boy,' and raised him as their own. Momotarō grew up strong and brave. When he learned that ogres were terrorizing nearby villages, he decided to defeat them. Armed with a sword, and accompanied by a talking dog, monkey, and pheasant who pledged to help him, Momotarō journeyed to the ogres' island. After a fierce battle, he defeated the ogres and returned home with their treasure, which he shared with the villagers. Momotarō and his parents lived happily ever after, and the villagers were forever grateful for his bravery.",
+      "ja": "昔々、子供のいない老夫婦がいました。ある日、おばあさんが川で洗濯をしていると、大きな桃が流れてきました。彼女はその桃を家に持ち帰り、夫と分け合うことにしました。桃を切ると、中から赤ちゃんが出てきたのです！彼らはその子を「桃太郎」と名付け、我が子のように育てました。桃太郎は強く勇敢に育ちました。やがて、彼は鬼たちが近くの村を襲っていることを知り、鬼退治を決意しました。剣を携え、彼に忠誠を誓った犬、猿、そしてキジの仲間たちと共に、桃太郎は鬼が住む島へ向かいました。激しい戦いの末、桃太郎は鬼を倒し、彼らの財宝を持ち帰りました。その財宝を村人たちと分け合い、老夫婦と桃太郎は幸せに暮らしました。村人たちは彼の勇気に感謝し、永遠に彼を称えました。"
+    },
+    "image": "https://i.pinimg.com/564x/0d/6d/6c/0d6d6cf0bd4a33cd7854ccd9de4e828f.jpg"
+  },
+  {
+    "id": "_45",
+    "title": "The Straw Millionaire",
+    "genre": "Japanese Folktale",
+    "story": {
+      "en": "Once upon a time, there was a poor man who prayed to a goddess for good fortune. The goddess appeared in a dream and told him that his luck would change if he kept whatever he found first. Upon waking, he found a single piece of straw. As he walked, he caught a horsefly with the straw, making it a little toy. He later traded the toy for three oranges, which he then traded for fine cloth. The man continued to trade up, each time receiving something more valuable than the last. Eventually, he traded his goods for a wealthy merchant's horse, which he later traded for a house and a field. In time, he became a prosperous and respected man, all because he never gave up and made the most of every opportunity, starting with a simple piece of straw.",
+      "ja": "昔々、貧しい男が幸運を祈り、女神に祈りました。女神は夢の中で彼に現れ、最初に見つけたものを大切にすれば運が変わると告げました。目覚めると、彼は一本の藁を見つけました。歩きながら、彼は藁でハエを捕まえ、小さなおもちゃを作りました。後に、そのおもちゃを3つのオレンジと交換し、それをさらに高価な布と交換しました。男は続けて取引を行い、毎回より価値のあるものを手に入れました。最終的に、彼は自分の品物を裕福な商人の馬と交換し、その馬を家と畑と交換しました。やがて、彼は豊かで尊敬される人物となり、すべては一本の藁から始まったのでした。"
+    },
+    "image": "https://i.pinimg.com/564x/18/7d/37/187d37c5d4ef8974a7c96675b8568b79.jpg"
+  },
+  {
+    "id": "_46",
+    "title": "The Tale of the Gallant Jizō",
+    "genre": "Japanese Folktale",
+    "story": {
+      "en": "Once upon a time, there was an old man and woman who lived alone in a small village. One winter, the old man set out to sell hats in the town, hoping to earn some money for the New Year. However, despite his efforts, he couldn't sell a single hat. As he was returning home, he saw six Jizō statues standing in the snow. Moved by their plight, he placed the hats on their heads, even though it meant he would go home empty-handed. That night, as the old couple prepared for a simple New Year's meal, they heard a strange noise outside. When they opened the door, they found a pile of gifts, including food, clothes, and money. The Jizō statues had repaid the old man's kindness by bringing prosperity to their home.",
+      "ja": "昔々、ある村に老夫婦が住んでいました。ある冬の日、老人は町で笠を売りに出かけ、新年のためにお金を稼ごうとしました。しかし、努力の甲斐もなく、笠は一つも売れませんでした。帰り道、彼は雪の中に立つ六体の地蔵像を見つけました。彼はその地蔵たちの姿に心を動かされ、自分が売ろうとしていた笠を地蔵たちの頭にかぶせて帰りました。その夜、老夫婦が簡素な新年の食事を準備していると、外から奇妙な音が聞こえてきました。ドアを開けると、そこには食べ物や衣類、そしてお金が山積みになっていました。地蔵たちは、老人の優しさに応えて繁栄をもたらしたのです。"
+    },
+    "image": "https://i.pinimg.com/564x/f0/b3/b2/f0b3b2e95ed4f994b39dd2169dc535f6.jpg"
+  },
+  {
+    "id": "_47",
+    "title": "The Tale of the Tongue-Cut Sparrow",
+    "genre": "Japanese Folktale",
+    "story": {
+      "en": "Once upon a time, there was an old man and his greedy wife. The old man was kind and loved all creatures, especially a small sparrow that visited him every day. One day, the sparrow accidentally ate some of the wife's rice paste, and in her anger, she cut the sparrow's tongue and sent it away. The old man, heartbroken, went searching for the sparrow. After a long journey, he found the sparrow's home deep in the mountains. The sparrow and her friends welcomed him warmly, and as a token of gratitude, they offered him a choice between two boxes—one large and one small. The old man chose the smaller box, which, upon opening, was filled with gold and treasures. When he returned home, his wife, hearing of his fortune, demanded to know where he had gotten it. She hurried to the sparrow's home and greedily chose the larger box. However, when she opened it, it was filled with demons and snakes, which chased her away. The old man lived peacefully with his treasures, while his wife was left to regret her greed.",
+      "ja": "昔々、優しいおじいさんと欲張りな妻がいました。おじいさんは動物を愛し、特に毎日訪れる小さなスズメを大切にしていました。ある日、スズメが誤って妻の作った糊を食べてしまい、怒った妻はスズメの舌を切って追い払ってしまいました。悲しみに暮れたおじいさんは、スズメを探しに出かけました。長い旅の末、彼は山奥でスズメの家を見つけました。スズメとその仲間たちは彼を温かく迎え、感謝の印として大きな箱と小さな箱のどちらかを選ぶように言いました。おじいさんは小さな箱を選び、開けると中には金や宝物がたくさん入っていました。家に戻ると、妻はその話を聞き、どこでそれを手に入れたのか問い詰めました。彼女は急いでスズメの家に行き、欲張って大きな箱を選びました。しかし、箱を開けると、中には鬼や蛇が詰まっていて、彼女を追いかけました。おじいさんは宝物と共に平和に暮らし、妻は自分の欲に悔いながら生きることになりました。"
+    },
+    "image": "https://i.pinimg.com/564x/93/32/87/933287709d38eb792b604e85300edd7e.jpg"
+  },
+  {
+    "id": "_48",
+    "title": "The Boy Who Drew Cats",
+    "genre": "Japanese Folktale",
+    "story": {
+      "en": "Once upon a time, there was a boy who loved to draw cats. No matter where he was or what he was supposed to be doing, he would always find himself drawing cats on any surface he could find. His parents, worried that he wasn’t focusing on his studies, sent him to a temple to become a priest. However, the boy couldn’t stop drawing cats even at the temple, so the head priest told him he was unsuited for temple life and advised him to seek a profession that matched his talent. The boy left the temple and found an abandoned shrine where he decided to spend the night. Before he fell asleep, he couldn’t resist drawing cats on the walls. That night, he heard strange noises and hid in a cupboard. In the morning, he discovered that a giant goblin rat had been slain in the shrine. The boy realized that the cats he had drawn had come to life and defeated the rat. From then on, he used his talent for drawing cats to help others and became famous throughout the land.",
+      "ja": "昔々、猫を描くことが大好きな男の子がいました。彼はどこにいても、何をしていても、見つけたあらゆる表面に猫を描いてしまうのです。両親は、彼が勉強に集中していないことを心配し、彼をお寺に送り、僧侶になるようにさせました。しかし、男の子はお寺でも猫を描くのをやめられず、住職は彼に寺の生活が向いていないと告げ、彼の才能に合った職業を探すように勧めました。男の子は寺を出て、廃れた神社を見つけ、そこで一夜を過ごすことにしました。眠りにつく前に、彼は壁に猫を描くのをやめられませんでした。その夜、奇妙な音が聞こえたので、彼は戸棚に隠れました。朝になると、神社で巨大なゴブリンネズミが倒されているのを見つけました。彼が描いた猫が命を吹き込まれ、ネズミを退治してくれたのだと悟りました。それ以来、彼は猫を描く才能を使って他人を助けるようになり、国中で有名になりました。"
+    },
+    "image": "https://i.pinimg.com/564x/21/64/94/216494fb7e56d657e99f4215137eda5a.jpg"
+  },
+  {
+    "id": "_50",
+    "title": "The Ogre of Rashomon",
+    "genre": "Japanese Folktale",
+    "story": {
+      "en": "Once upon a time, in the city of Kyoto, there was a notorious gate called Rashomon. It was said to be haunted by a fearsome ogre that terrorized the people who dared to pass by at night. One day, a brave samurai named Watanabe no Tsuna decided to rid the city of this menace. Armed with his sharp sword, he set out to confront the ogre. As he approached the gate, the ogre appeared and attacked. A fierce battle ensued, and just as the ogre was about to overpower him, Tsuna managed to slice off the ogre's arm. The ogre howled in pain and fled, leaving his arm behind. Tsuna took the arm back to his home as proof of his victory. However, the ogre was determined to retrieve his lost limb. Disguised as Tsuna’s aunt, the ogre tricked Tsuna into giving him the arm and then vanished into the night. Despite losing the arm, the ogre never returned to Rashomon, and the people of Kyoto were safe once more.",
+      "ja": "昔々、京都の街に羅生門と呼ばれる悪名高い門がありました。そこには恐ろしい鬼が出没し、夜に通りかかる人々を襲うと言われていました。ある日、勇敢な侍、渡辺綱がこの鬼を退治して町を救おうと決心しました。鋭い刀を手にした綱は、鬼に立ち向かうため羅生門へ向かいました。門に近づくと、鬼が現れ、激しい戦いが始まりました。鬼が綱を圧倒しようとしたその瞬間、綱は鬼の腕を切り落としました。鬼は苦しみの中で叫び、腕を残して逃げ去りました。綱は勝利の証として腕を家に持ち帰りました。しかし、鬼は失った腕を取り戻そうと決意しました。綱の叔母に化けて彼を騙し、腕を取り返した鬼は夜の闇に消えていきました。腕を取り返されたものの、鬼は二度と羅生門に現れることはなく、京都の人々は再び安全になりました。"
+    },
+    "image": "https://i.pinimg.com/736x/cc/54/cf/cc54cfe27823eb28b25c10a1b2313dfa.jpg"
+  },
+  {
+    "id": "_51",
+    "title": "The Clever Jackal",
+    "genre": "Indian Folktale",
+    "story": {
+      "en": "Once upon a time in a dense forest, a clever jackal found himself trapped in a hunter’s net. As he struggled to free himself, he noticed a lion approaching. The jackal quickly devised a plan and called out to the lion, claiming that the net was a trap set by the king of the animals to catch anyone who dared to come near. The lion, fearful of the king’s wrath, turned and ran away. The jackal then used his cunning to free himself from the net. From that day on, the jackal became known as the cleverest animal in the forest.",
+      "hi": "एक बार एक घने जंगल में, एक चालाक गीदड़ शिकारियों के जाल में फंस गया। जैसे ही वह खुद को छुड़ाने की कोशिश कर रहा था, उसने देखा कि एक शेर आ रहा है। गीदड़ ने तुरंत एक योजना बनाई और शेर से कहा कि जाल एक जाल है जिसे जानवरों के राजा ने उन सभी को पकड़ने के लिए लगाया है जो नजदीक आएं। शेर, राजा के क्रोध से डरकर, मुड़कर भाग गया। गीदड़ ने तब अपनी चतुराई का उपयोग करके जाल से बाहर निकलने में सफल हो गया। उस दिन के बाद, गीदड़ को जंगल में सबसे चालाक जानवर के रूप में जाना जाने लगा।"
+    },
+    "image": "https://i.pinimg.com/564x/10/5d/4e/105d4e065cf3506590e9b94db92c8e95.jpg"
+  },
+  {
+    "id": "_52",
+    "title": "The Story of the Three Fish",
+    "genre": "Indian Folktale",
+    "story": {
+      "en": "Three fish lived in a pond, each with a different personality. The first fish was cautious, the second was daring, and the third was foolish. One day, the pond began to dry up, and the wise fish warned the others to leave. The daring fish chose to stay and explore, while the foolish fish ignored the warning and continued to swim around carelessly. Eventually, the pond dried up completely. The cautious fish found a new pond and survived, the daring fish got caught by a fisherman, and the foolish fish perished as it was too late to escape.",
+      "hi": "तीन मछलियाँ एक तालाब में रहती थीं, प्रत्येक की अलग-अलग स्वभाव था। पहली मछली सतर्क थी, दूसरी साहसी थी, और तीसरी मूर्ख थी। एक दिन, तालाब सूखने लगा, और समझदार मछली ने अन्य मछलियों को चेतावनी दी कि वे चले जाएं। साहसी मछली ने ठहरने और खोजने का फैसला किया, जबकि मूर्ख मछली ने चेतावनी को नजरअंदाज करते हुए बेवकूफी से तैरना जारी रखा। अंततः, तालाब पूरी तरह से सूख गया। सतर्क मछली ने एक नया तालाब पाया और बच गई, साहसी मछली एक मछुआरे के जाल में फंस गई, और मूर्ख मछली मरी गई क्योंकि बचने के लिए बहुत देर हो चुकी थी।"
+    },
+    "image": "https://i.pinimg.com/564x/51/8d/98/518d98b5b65f1d91fd7af997d6f1e71b.jpg"
+  },
+  {
+    "id": "_53",
+    "title": "The Merchant and the Donkey",
+    "genre": "Indian Folktale",
+    "story": {
+      "en": "A merchant had a faithful donkey that carried his goods to the market every day. One day, the merchant decided to take a shortcut through a dense forest. As they were crossing, the donkey grew tired and refused to move. The merchant, frustrated, tried to push the donkey, but it wouldn’t budge. Just then, a clever fox appeared and offered to help. The fox convinced the merchant to let the donkey rest, and while the donkey rested, the fox quickly gathered some food for it. The merchant learned the value of kindness and never took shortcuts again.",
+      "hi": "एक व्यापारी के पास एक वफादार गधा था जो हर दिन उसकी सामान को बाजार में ले जाता था। एक दिन, व्यापारी ने एक घने जंगल के रास्ते से गुजरने का फैसला किया। जैसे ही वे पार कर रहे थे, गधा थक गया और हिलने से इंकार कर दिया। व्यापारी, परेशान होकर, गधे को धक्का देने की कोशिश की, लेकिन गधा हिला नहीं। तभी, एक चालाक लोमड़ी आई और मदद की पेशकश की। लोमड़ी ने व्यापारी को गधे को आराम देने के लिए मनाया, और जब गधा आराम कर रहा था, तो लोमड़ी ने जल्दी से उसके लिए कुछ भोजन इकट्ठा कर लिया। व्यापारी ने दयालुता की मूल्य को सीखा और फिर कभी शॉर्टकट नहीं लिया।"
+    },
+    "image": "https://i.pinimg.com/564x/da/a4/86/daa4865b45d4427a74ed0cc6952d18fe.jpg"
+  },
+  {
+    "id": "_54",
+    "title": "The King and the Wise Man",
+    "genre": "Indian Folktale",
+    "story": {
+      "en": "Once, a king wanted to know who was the wisest man in his kingdom. He invited three renowned wise men to his court and gave them a challenge: to answer a question with a single word. The question was, 'What is the most important thing in life?' The first wise man answered 'Love,' the second said 'Wisdom,' and the third replied 'Kindness.' The king pondered their answers and concluded that all three qualities were important but realized that kindness encompassed both love and wisdom. He declared the third wise man as the wisest, valuing kindness above all.",
+      "hi": "एक बार, एक राजा ने जानना चाहा कि उसके राज्य में सबसे बुद्धिमान व्यक्ति कौन है। उसने अपने दरबार में तीन प्रसिद्ध ज्ञानी पुरुषों को आमंत्रित किया और उन्हें एक चुनौती दी: एक शब्द में उत्तर देने के लिए। प्रश्न था, 'जीवन में सबसे महत्वपूर्ण बात क्या है?' पहले ज्ञानी ने 'प्रेम' कहा, दूसरे ने 'ज्ञान' कहा, और तीसरे ने 'दयालुता' कहा। राजा ने उनके उत्तरों पर विचार किया और निष्कर्ष निकाला कि तीनों गुण महत्वपूर्ण हैं लेकिन दयालुता ने प्रेम और ज्ञान दोनों को शामिल किया। उसने तीसरे ज्ञानी को सबसे बुद्धिमान घोषित किया, और दयालुता को सबसे ऊपर माना।"
+    },
+    "image": "https://i.pinimg.com/564x/1c/43/6f/1c436f1d64494c50f98a956187134b47.jpg"
+  },
+  {
+    "id": "_55",
+    "title": "The Diamond Necklace",
+    "genre": "Indian Folktale",
+    "story": {
+      "en": "Once, Birbal was invited to a grand feast at the emperor's palace. During the feast, a guest claimed that he had seen Birbal wearing a diamond necklace. Birbal denied this, saying he had never owned such a necklace. The emperor, curious, asked Birbal to prove his innocence. Birbal cleverly suggested that the guest should look for the necklace in the palace. The search revealed that the guest had made a mistake. The emperor praised Birbal for his cleverness and honesty, reaffirming his trust in him.",
+      "hi": "एक बार, बीरबल को सम्राट के महल में एक भव्य दावत में आमंत्रित किया गया। दावत के दौरान, एक मेहमान ने दावा किया कि उसने बीरबल को एक हीरा हार पहनते हुए देखा है। बीरबल ने इससे इनकार किया, कहते हुए कि उसने कभी ऐसा हार नहीं पहना। सम्राट, जिज्ञासु होकर, बीरबल से उसकी निर्दोषता साबित करने को कहा। बीरबल ने चालाकी से सुझाव दिया कि मेहमान को महल में हार की खोज करनी चाहिए। खोज में पता चला कि मेहमान ने गलती की थी। सम्राट ने बीरबल की बुद्धिमत्ता और ईमानदारी की सराहना की और उनके प्रति अपने विश्वास को फिर से पुष्टि की।"
+    },
+    "image": "https://i.pinimg.com/564x/98/9b/ad/989bad889830d4ed7c24bc5ec3d85b4b.jpg"
+  },
+  {
+    "id": "_56",
+    "title": "The Wise Elephant and the Monkey",
+    "genre": "Indian Folktale",
+    "story": {
+      "en": "In a grand forest, an elephant and a monkey were great friends. One day, they decided to compete in a contest to see who could gather the most fruits. The monkey, being quick and nimble, gathered fruits with ease, while the elephant used his strength to carry large amounts. At the end of the day, they compared their collections. The monkey had gathered a variety of fruits, but the elephant had collected more in quantity. The wise elephant then shared his fruits with the monkey, teaching him that sharing and kindness are more valuable than competition and quantity.",
+      "hi": "एक भव्य जंगल में, एक हाथी और एक बंदर अच्छे दोस्त थे। एक दिन, उन्होंने प्रतियोगिता करने का फैसला किया कि कौन अधिक फल इकट्ठा कर सकता है। बंदर, जो तेज और फुर्तीला था, आसानी से फल इकट्ठा करता था, जबकि हाथी अपनी ताकत का उपयोग करके बड़ी मात्रा में फल ले आता था। दिन के अंत में, उन्होंने अपनी-अपनी फलों की संग्रहण की तुलना की। बंदर ने विभिन्न प्रकार के फल इकट्ठा किए थे, लेकिन हाथी ने अधिक मात्रा में इकट्ठा किया था। समझदार हाथी ने फिर अपने फल बंदर के साथ साझा किए, उसे सिखाते हुए कि साझा करना और दयालुता प्रतिस्पर्धा और मात्रा से अधिक मूल्यवान है।"
+    },
+    "image": "https://i.pinimg.com/736x/71/e9/eb/71e9eb227900227365b81fef16c66558.jpg"
+  },
+  {
+    "id": "_57",
+    "title": "The Three Questions",
+    "genre": "Indian Folktale",
+    "story": {
+      "en": "One day, Emperor Akbar asked his wise advisor, Birbal, to answer three questions. The questions were: 'What is the most important thing in life?', 'What is the most valuable thing?', and 'What is the most difficult thing to do?' Birbal, using his wisdom, answered: 'The most important thing in life is to know oneself; the most valuable thing is the truth; and the most difficult thing to do is to keep one's promises.' Akbar was impressed by Birbal's answers and realized the depth of his wisdom.",
+      "hi": "एक दिन, सम्राट अकबर ने अपने बुद्धिमान सलाहकार, बीरबल से तीन सवालों के जवाब देने को कहा। सवाल थे: 'जीवन में सबसे महत्वपूर्ण चीज क्या है?', 'सबसे मूल्यवान चीज क्या है?', और 'करना सबसे कठिन चीज क्या है?' बीरबल ने अपनी बुद्धिमत्ता का उपयोग करते हुए उत्तर दिया: 'जीवन में सबसे महत्वपूर्ण चीज खुद को जानना है; सबसे मूल्यवान चीज सच्चाई है; और सबसे कठिन चीज है अपने वादों को निभाना।' अकबर बीरबल के उत्तरों से प्रभावित हुए और उनकी बुद्धिमत्ता की गहराई को समझा।"
+    },
+    "image": "https://i.pinimg.com/564x/3b/e7/ab/3be7abf7d390b86ee58abca27d2c3587.jpg"
+  },
+  {
+    "id": "_58",
+    "title": "The Gift of La Befana",
+    "genre": "Italian Folktale",
+    "story": {
+      "en": "In a small village in Italy, there lived an old woman named La Befana. Every year, on the night of January 5th, she would fly over the rooftops on her broomstick, delivering gifts to the children of the village. One year, a terrible storm swept through the village, and La Befana's broomstick was broken. Fearing that the children would wake up to find no gifts, she decided to walk from house to house, carrying her heavy bag. As she trudged through the snow, she came across a young boy who had no shoes and was shivering in the cold. Moved by his plight, La Befana took off her own warm shawl and wrapped it around the boy. She gave him the last of her gifts and continued on her way. The next morning, the villagers found La Befana asleep by the fire in the town square, her broomstick miraculously mended. The boy, who had been given the shawl, told everyone of her kindness. From that day on, La Befana's gifts were even more cherished, for they were given with a heart full of love.",
+      "it": "In un piccolo villaggio in Italia, viveva una vecchia di nome La Befana. Ogni anno, la notte del 5 gennaio, volava sui tetti con la sua scopa, portando doni ai bambini del villaggio. Un anno, una terribile tempesta travolse il villaggio e la scopa di La Befana si ruppe. Temendo che i bambini si svegliassero senza trovare regali, decise di andare a piedi da casa a casa, portando il suo pesante sacco. Mentre avanzava nella neve, incontrò un ragazzino senza scarpe che tremava dal freddo. Commossa dalla sua situazione, La Befana si tolse la sua calda sciarpa e la avvolse intorno al ragazzo. Gli diede l'ultimo dei suoi regali e continuò il suo cammino. La mattina seguente, i paesani trovarono La Befana addormentata accanto al fuoco nella piazza del paese, con la scopa miracolosamente riparata. Il ragazzo, che aveva ricevuto la sciarpa, raccontò a tutti della sua gentilezza. Da quel giorno, i regali di La Befana furono ancora più preziosi, poiché erano dati con un cuore pieno d'amore."
+    },
+    "image": "https://i.pinimg.com/564x/7b/6a/2a/7b6a2ab919dcca82b81f3bb3208a449d.jpg"
+  },
+  {
+    "id": "_59",
+    "title": "The Curse of the Taranto",
+    "genre": "Italian Folktale",
+    "story": {
+      "en": "In the ancient town of Taranto, there was a man named Giovanni who was cursed by a vengeful witch to transform into a giant spider each night. The curse was placed upon him because of his greed and unkindness. Every night, Giovanni would roam the village as the fearsome Taranto, spreading fear and despair. The villagers, terrified, sought help from a wise woman who lived in the hills. She told them that the only way to break the curse was for Giovanni to perform an act of true kindness. One night, as the Taranto, Giovanni saved a child from a burning building. His selfless act broke the curse, and he was transformed back into a human. From that day forward, Giovanni dedicated his life to helping others, and the town of Taranto was at peace once more.",
+      "it": "Nell'antica città di Taranto, c'era un uomo di nome Giovanni che fu maledetto da una strega vendicativa a trasformarsi in un ragno gigante ogni notte. La maledizione gli fu inflitta a causa della sua avidità e cattiveria. Ogni notte, Giovanni vagava per il villaggio come il temuto Taranto, spargendo paura e disperazione. I paesani, terrorizzati, cercarono aiuto da una donna saggia che viveva sulle colline. Lei disse loro che l'unico modo per spezzare la maledizione era che Giovanni compisse un atto di vera gentilezza. Una notte, come Taranto, Giovanni salvò un bambino da un edificio in fiamme. Il suo atto disinteressato spezzò la maledizione e fu trasformato di nuovo in un uomo. Da quel giorno, Giovanni dedicò la sua vita ad aiutare gli altri e la città di Taranto tornò in pace."
+    },
+    "image": "https://i.pinimg.com/736x/31/9f/61/319f6132065f7cfbc8c32d801ac094fe.jpg"
+  },
+  {
+    "id": "_60",
+    "title": "The Guardian of the Olive Trees",
+    "genre": "Italian Folktale",
+    "story": {
+      "en": "In a lush olive grove in southern Italy, there was a sacred olive tree guarded by a fairy named Oliva. The villagers respected the tree, knowing that it brought them good harvests. One day, a greedy merchant named Marco tried to cut down the tree to sell the wood. As he struck the first blow, Oliva appeared, warning him to stop. Ignoring her, Marco continued, but each time he struck the tree, his axe shattered. Realizing the tree was protected, Marco begged for forgiveness. Oliva told him that he could atone for his greed by planting and caring for ten new olive trees. Marco did as he was told, and the grove flourished, bringing prosperity to the village.",
+      "it": "In un rigoglioso uliveto nel sud Italia, c'era un albero di ulivo sacro custodito da una fata di nome Oliva. I paesani rispettavano l'albero, sapendo che portava loro buoni raccolti. Un giorno, un mercante avido di nome Marco tentò di abbattere l'albero per vendere il legno. Mentre dava il primo colpo, Oliva apparve, avvertendolo di fermarsi. Ignorandola, Marco continuò, ma ogni volta che colpiva l'albero, la sua ascia si frantumava. Rendendosi conto che l'albero era protetto, Marco implorò perdono. Oliva gli disse che poteva espiare la sua avidità piantando e curando dieci nuovi ulivi. Marco fece come gli fu detto e l'uliveto prosperò, portando prosperità al villaggio."
+    },
+    "image": "https://i.pinimg.com/564x/6d/cd/5e/6dcd5ef1a700a3f3ac4bd8bb2b950090.jpg"
+  },
+  {
+    "id": "_61",
+    "title": "The Fisherman and the Golden Fish",
+    "genre": "Italian Folktale",
+    "story": {
+      "en": "In a coastal village of Sicily, there lived a poor fisherman named Pietro. One day, he caught a golden fish that spoke to him, begging to be released in exchange for a wish. Pietro, with a kind heart, set the fish free without asking for anything. When he returned home, he found his humble cottage transformed into a beautiful home, and his nets filled with fish. The golden fish had granted him prosperity for his selflessness. From then on, Pietro shared his fortune with the villagers, never forgetting the kindness of the golden fish.",
+      "it": "In un villaggio costiero della Sicilia, viveva un povero pescatore di nome Pietro. Un giorno, catturò un pesce d'oro che gli parlò, implorandolo di essere liberato in cambio di un desiderio. Pietro, con un cuore gentile, liberò il pesce senza chiedere nulla. Quando tornò a casa, trovò la sua umile casetta trasformata in una splendida dimora e le sue reti piene di pesci. Il pesce d'oro gli aveva concesso prosperità per la sua generosità. Da quel giorno, Pietro condivise la sua fortuna con i paesani, senza mai dimenticare la gentilezza del pesce d'oro."
+    },
+    "image": "https://i.pinimg.com/564x/00/da/49/00da49f3bda843bb0bbcb48054e02bfa.jpg"
+  },
+  {
+    "id": "_62",
+    "title": "The Witch of the Seven Hills",
+    "genre": "Italian Folktale",
+    "story": {
+      "en": "In the heart of Rome, atop the Seven Hills, there lived a powerful witch named Belladonna. She was known for her beauty and her ability to control the winds. Many feared her, but she was also sought after for her wisdom. One day, a young man named Lorenzo came to her, asking for help to win the love of a girl from his village. Belladonna agreed, but on one condition: he must bring her a flower that only bloomed on the night of a full moon on the highest hill. Lorenzo, determined, climbed the hill and found the flower. When he returned, Belladonna smiled and told him that true love cannot be forced. She gave him a potion, not to make the girl love him, but to give him the courage to confess his feelings. The girl, touched by his sincerity, fell in love with him, and they lived happily ever after.",
+      "it": "Nel cuore di Roma, in cima ai Sette Colli, viveva una potente strega di nome Belladonna. Era conosciuta per la sua bellezza e la sua capacità di controllare i venti. Molti la temevano, ma era anche ricercata per la sua saggezza. Un giorno, un giovane di nome Lorenzo venne da lei chiedendo aiuto per conquistare l'amore di una ragazza del suo villaggio. Belladonna acconsentì, ma a una condizione: doveva portarle un fiore che sbocciava solo nella notte di luna piena sulla collina più alta. Lorenzo, determinato, scalò la collina e trovò il fiore. Quando tornò, Belladonna sorrise e gli disse che il vero amore non può essere forzato. Gli diede una pozione, non per far innamorare la ragazza, ma per dargli il coraggio di confessare i suoi sentimenti. La ragazza, toccata dalla sua sincerità, si innamorò di lui e vissero felici per sempre."
+    },
+    "image": "https://i.pinimg.com/736x/b0/89/95/b089951b2b827070692989b3345ca3aa.jpg"
+  },
+  {
+    "id": "_63",
+    "title": "The Lantern of the Lost Souls",
+    "genre": "Italian Folktale",
+    "story": {
+      "en": "In the shadowy woods of northern Italy, a mysterious lantern was said to guide lost souls to their final resting place. The lantern was kept by an old hermit named Matteo, who lived alone in a small hut. One evening, a group of travelers, lost in the dense forest, stumbled upon Matteo’s hut. Matteo welcomed them and told them about the lantern's power. As night fell, the travelers followed the lantern’s glow, which led them safely out of the forest. They discovered that the lantern was not just a guide but a symbol of Matteo's wisdom and compassion. They returned to their homes with a newfound appreciation for the old hermit and the magic of the lantern.",
+      "it": "Nelle ombrose foreste del nord Italia, si diceva che una lanterna misteriosa guidasse le anime perse verso il loro ultimo riposo. La lanterna era custodita da un vecchio eremita di nome Matteo, che viveva solo in una piccola capanna. Una sera, un gruppo di viaggiatori, persi nella fitta foresta, si imbatté nella capanna di Matteo. Matteo li accolse e raccontò loro del potere della lanterna. Quando calò la notte, i viaggiatori seguirono il chiarore della lanterna, che li guidò in sicurezza fuori dalla foresta. Scoprirono che la lanterna non era solo una guida, ma un simbolo della saggezza e della compassione di Matteo. Tornarono a casa con una nuova apprezzamento per il vecchio eremita e la magia della lanterna."
+    },
+    "image": "https://i.pinimg.com/564x/31/cb/65/31cb65a762c7c1da9d252a106532644b.jpg"
+  },
+  {
+    "id": "_64",
+    "title": "The Enchanted Vineyards",
+    "genre": "Italian Folktale",
+    "story": {
+      "en": "In the hills of Tuscany, there was a vineyard owned by an old man named Francesco. One year, the vineyard faced a terrible drought, and the grapes began to wither. Francesco prayed to the ancient spirits of the land for help. That night, a mysterious figure appeared and told Francesco that the vineyard could only be saved by a song sung from the heart. Francesco, though unsure, sang a heartfelt melody under the moonlight. Miraculously, the next morning, the vines were lush and full of grapes. The villagers were amazed and celebrated Francesco's vineyard. They believed that the spirits had been moved by Francesco's genuine love for his land.",
+      "it": "Sulle colline della Toscana, c'era un vigneto di proprietà di un uomo anziano di nome Francesco. Un anno, il vigneto affrontò una terribile siccità e le uve cominciarono ad appassire. Francesco pregò gli antichi spiriti della terra per aiuto. Quella notte, apparve una figura misteriosa e disse a Francesco che il vigneto poteva essere salvato solo da una canzone cantata dal cuore. Francesco, sebbene incerto, cantò una melodia sincera sotto la luce della luna. Miracolosamente, la mattina successiva, i vigneti erano rigogliosi e pieni di uva. I paesani erano stupiti e celebrarono il vigneto di Francesco. Credevano che gli spiriti fossero stati commossi dall'amore sincero di Francesco per la sua terra."
+    },
+    "image": "https://i.pinimg.com/564x/f7/64/f4/f764f42ea9318fc6fbc421c25fb2881f.jpg"
+  },
+  {
+    "id": "_65",
+    "title": "The Stolen Crown",
+    "genre": "Italian Folktale",
+    "story": {
+      "en": "In the medieval city of Florence, a beautiful crown, the symbol of the city’s power, was stolen from the palace. The thief left behind a riddle that led to a secret location. The city’s bravest knight, Giovanni, took on the challenge. Following the riddle, Giovanni ventured through dark forests and across treacherous mountains. At the final location, he discovered that the crown had been stolen by a jealous rival who wanted to diminish Florence’s glory. Giovanni outwitted the rival with his cunning and bravery, retrieving the crown. The city celebrated his return and honored him with a grand feast. Giovanni's deeds became a legend, symbolizing the triumph of courage and intelligence.",
+      "it": "Nella città medievale di Firenze, una bellissima corona, simbolo del potere della città, fu rubata dal palazzo. Il ladro lasciò dietro di sé un enigma che conduceva a un luogo segreto. Il cavaliere più coraggioso della città, Giovanni, accettò la sfida. Seguendo l'enigma, Giovanni si avventurò attraverso foreste oscure e montagne pericolose. Al luogo finale, scoprì che la corona era stata rubata da un rivale geloso che voleva diminuire la gloria di Firenze. Giovanni superò il rivale con astuzia e coraggio, recuperando la corona. La città celebrò il suo ritorno e lo onorò con un grande banchetto. Le imprese di Giovanni divennero una leggenda, simboleggiando il trionfo del coraggio e dell'intelligenza."
+    },
+    "image": "https://i.pinimg.com/736x/b7/82/82/b78282a01e9c7e05a6b3e379927a5a0f.jpg"
+  },
+  {
+    "id": "_66",
+    "title": "",
+    "genre": "Italian Folktale",
+    "story": {
+      "en": "In a small village in the Apennine Mountains, an old map was discovered in an ancient chest. The map was said to lead to a hidden treasure buried by a pirate centuries ago. A group of villagers, led by the brave Isabella, decided to follow the map. Their journey took them through dangerous paths and mysterious caves. Along the way, they encountered various challenges that tested their resolve. Finally, they reached the treasure, which was not gold or jewels but a chest filled with old manuscripts and artifacts that revealed the rich history of their ancestors. The villagers were overjoyed to uncover their heritage and celebrated the discovery as a treasure more valuable than gold.",
+      "it": "In un piccolo villaggio nei Monti Appennini, fu scoperta una vecchia mappa in un antico scrigno. Si diceva che la mappa conducesse a un tesoro nascosto sepolto da un pirata secoli fa. Un gruppo di paesani, guidato dalla coraggiosa Isabella, decise di seguire la mappa. Il loro viaggio li portò attraverso sentieri pericolosi e grotte misteriose. Lungo il cammino, affrontarono varie sfide che misero alla prova la loro determinazione. Infine, raggiunsero il tesoro, che non era oro o gioielli, ma uno scrigno pieno di manoscritti antichi e manufatti che rivelavano la ricca storia dei loro antenati. I paesani furono entusiasti di scoprire il loro patrimonio e celebrarono la scoperta come un tesoro più prezioso dell'oro."
+    },
+    "image": "https://i.pinimg.com/564x/80/af/2a/80af2a014a9453304b337b8345dad008.jpg"
+  }
+]
