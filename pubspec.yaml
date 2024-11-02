@@ -73,6 +73,9 @@ flutter:
     - lib/lang/en.json
     - lib/lang/ru.json
     - lib/lang/de.json
+    - assets/data.json
+    - assets/folkTails.json
+
 
   # To add assets to your application, add an assets section, like this:
   # assets:

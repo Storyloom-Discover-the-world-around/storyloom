@@ -49,7 +49,7 @@ class _MainLayoutState extends State<MainLayout> {
             //       child: child,
             //     );
             //   },
-            //   child: _pages[_selectedPage],   
+            //   child: _pages[_selectedPage],
             // ),
             child: widget.child,
           ),

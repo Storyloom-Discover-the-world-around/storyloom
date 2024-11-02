@@ -1,21 +1,46 @@
+import 'dart:convert';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:storyloom/pages/folktales/forktales_dropdown_widget/forktales_dropdown_widget.dart';
 import 'package:storyloom/pages/folktales/forktales_screen_widgets/forktale_story_card/forktale_story_card_widget.dart';
 
 class FolktalesPage extends StatefulWidget {
-  const FolktalesPage({super.key});
+  const FolktalesPage({Key? key}) : super(key: key);
 
   @override
-  FolktalesPageState createState() => FolktalesPageState(); // Made public
+  FolktalesPageState createState() => FolktalesPageState();
 }
 
 class FolktalesPageState extends State<FolktalesPage> {
-  // Made public
   String selectedCountry = 'All';
+  List<dynamic> stories = [];
+
+  @override
+  void initState() {
+    super.initState();
+    loadStories();
+  }
+
+  Future<void> loadStories() async {
+    try {
+      final String response = await rootBundle.loadString('/folkTails.json');
+      final List<dynamic> data = json.decode(response);
+      setState(() {
+        stories = data;
+      });
+    } catch (e) {
+      // Handle error (e.g., show a message)
+      print('Error loading stories: $e');
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
     final screenHeight = MediaQuery.of(context).size.height;
+
+    final filteredStories = stories.where((story) {
+      return selectedCountry == 'All' || story['genre'] == selectedCountry;
+    }).toList();
 
     return Scaffold(
       body: SingleChildScrollView(
@@ -43,21 +68,22 @@ class FolktalesPageState extends State<FolktalesPage> {
               },
             ),
             const SizedBox(height: 20),
-            const ForktailStoryCardWidget(
-              image:
-                  "https://i.pinimg.com/564x/ca/a6/b7/caa6b7765a6c9f19b355f44bb0d561b2.jpg",
-              title: "The Firebird",
-              country: "Russia",
-              description: "Once upon a time, in a faraway kingdom, there...",
-            ),
-            const SizedBox(height: 16),
-            const ForktailStoryCardWidget(
-              image:
-                  "https://i.pinimg.com/564x/ca/a6/b7/caa6b7765a6c9f19b355f44bb0d561b2.jpg",
-              title: "The Firebird",
-              country: "Russia",
-              description: "Once upon a time, in a faraway kingdom, there...",
-            ),
+            ...filteredStories.map((story) {
+              String storySnippet =
+                  story['story']['en'].substring(0, 20) + '...';
+
+              return Column(
+                children: [
+                  ForktailStoryCardWidget(
+                    image: story['image'],
+                    title: story['title'],
+                    country: story['genre'],
+                    description: storySnippet,
+                  ),
+                  const SizedBox(height: 16),
+                ],
+              );
+            }).toList(),
             const SizedBox(height: 32),
           ],
         ),

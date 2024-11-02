@@ -33,13 +33,13 @@ class GenreStoryCardWidget extends StatelessWidget {
             borderRadius: BorderRadius.circular(16),
             child: Column(
               children: [
-                // Background image (top portion)
                 Expanded(
                   child: Image.network(
-                    image,
+                    'https://storyloom.in/_next/image?url=%2Fadventure.jpg&w=1920&q=75',
                     fit: BoxFit.cover,
                     width: double.infinity,
                     errorBuilder: (context, error, stackTrace) {
+                      print('Image failed to load: $image');
                       return const Center(
                         child: Icon(Icons.error, color: Colors.red),
                       );

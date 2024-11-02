@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'dart:convert';
 import 'package:storyloom/pages/genres/Genre_dropdown_widget/genre_dropdown_widget.dart';
 import 'package:storyloom/pages/genres/Genre_story_card_widget/genre_story_card_widget.dart';
 
@@ -6,16 +8,34 @@ class GenresPage extends StatefulWidget {
   const GenresPage({super.key});
 
   @override
-  GenresPageState createState() => GenresPageState(); // Made public
+  GenresPageState createState() => GenresPageState();
 }
 
 class GenresPageState extends State<GenresPage> {
-  // Made public
-  String selectedGenre = 'All'; // Default genre
+  String selectedGenre = 'All';
+  List<dynamic> stories = [];
+
+  @override
+  void initState() {
+    super.initState();
+    loadStories();
+  }
+
+  Future<void> loadStories() async {
+    final String response = await rootBundle.loadString('/data.json');
+    final List<dynamic> data = json.decode(response);
+    setState(() {
+      stories = data;
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
     final screenHeight = MediaQuery.of(context).size.height;
+
+    final filteredStories = stories.where((story) {
+      return selectedGenre == 'All' || story['genre'] == selectedGenre;
+    }).toList();
 
     return Scaffold(
       body: SingleChildScrollView(
@@ -24,7 +44,6 @@ class GenresPageState extends State<GenresPage> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             SizedBox(height: screenHeight * 0.125),
-
             Text(
               '$selectedGenre Stories',
               style: const TextStyle(
@@ -34,8 +53,7 @@ class GenresPageState extends State<GenresPage> {
               ),
               textAlign: TextAlign.center,
             ),
-            const SizedBox(height: 20), // Add spacing
-
+            const SizedBox(height: 20),
             GenreDropdown(
               selectedGenre: selectedGenre,
               onChanged: (newGenre) {
@@ -44,23 +62,23 @@ class GenresPageState extends State<GenresPage> {
                 });
               },
             ),
-            const SizedBox(height: 20), // Add spacing
+            const SizedBox(height: 20),
+            ...filteredStories.map((story) {
+              String storySnippet =
+                  story['story']['en'].substring(0, 20) + '...';
 
-            const GenreStoryCardWidget(
-              image:
-                  "https://i.pinimg.com/564x/ca/a6/b7/caa6b7765a6c9f19b355f44bb0d561b2.jpg",
-              title: "The Firebird",
-              genre: "Russia",
-              description: "Once upon a time, in a faraway kingdom, there...",
-            ),
-            const SizedBox(height: 16), // Add spacing between cards
-            const GenreStoryCardWidget(
-              image:
-                  "https://i.pinimg.com/564x/ca/a6/b7/caa6b7765a6c9f19b355f44bb0d561b2.jpg",
-              title: "The Firebird",
-              genre: "Russia",
-              description: "Once upon a time, in a faraway kingdom, there...",
-            ),
+              return Column(
+                children: [
+                  GenreStoryCardWidget(
+                    image: story['image'],
+                    title: story['title'],
+                    genre: story['genre'],
+                    description: storySnippet,
+                  ),
+                  const SizedBox(height: 16),
+                ],
+              );
+            }).toList(),
             const SizedBox(height: 32),
           ],
         ),
